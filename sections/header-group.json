@@ -1,55 +1,92 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "announcement-bar": {
+    "announcement_bar_MJPRhV": {
       "type": "announcement-bar",
-      "settings": {
-        "color_scheme": "scheme-1",
-        "show_line_separator": true,
-        "show_social": false,
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "enable_country_selector": false,
-        "enable_language_selector": false
-      },
       "blocks": {
-        "announcement-bar-0": {
+        "announcement_biKDPp": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "text_alignment": "center",
-            "color_scheme": "scheme-1",
+            "text": "LOVE IT OR WE'LL MAKE IT RIGHT PROMISE",
+            "link": ""
+          }
+        },
+        "announcement_E9CRXN": {
+          "type": "announcement",
+          "settings": {
+            "text": "\"My husband got teary-eyed\"—Danielle, USA",
+            "link": ""
+          }
+        },
+        "announcement_HNFNC6": {
+          "type": "announcement",
+          "settings": {
+            "text": "WE SHIP WORLDWIDE",
+            "link": ""
+          }
+        },
+        "announcement_mLW9r8": {
+          "type": "announcement",
+          "settings": {
+            "text": "\"It's beautiful! ❤️ 😍 💖\"—Robin, USA",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
-      ]
+        "announcement_biKDPp",
+        "announcement_E9CRXN",
+        "announcement_HNFNC6",
+        "announcement_mLW9r8"
+      ],
+      "settings": {
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "color_scheme": "",
+        "show_line_separator": true,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".header__heading-link .h2 {font-family: georgia; font-weight: bold; font-size: 42px; color: #000000; letter-spacing: 5px;}",
+        "#HeaderMenu-shop {text-transform: uppercase;}",
+        "#HeaderMenu-offers {text-transform: uppercase;}",
+        "#HeaderMenu-info {text-transform: uppercase;}",
+        ".header__menu-item list-menu__item link link--text focus-inset caption-large {text-transform: capitalize;}"
+      ],
       "settings": {
-        "color_scheme": "scheme-1",
-        "menu_color_scheme": "scheme-1",
-        "logo_position": "middle-left",
+        "logo_position": "middle-center",
+        "mobile_logo_position": "center",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
-        "sticky_header_type": "on-scroll-up",
-        "show_line_separator": true,
+        "sticky_header_type": "none",
+        "show_line_separator": false,
+        "color_scheme": "background-1",
+        "menu_color_scheme": "background-1",
         "enable_country_selector": true,
-        "enable_language_selector": true,
-        "enable_customer_avatar": true,
-        "mobile_logo_position": "center",
+        "enable_language_selector": false,
         "margin_bottom": 0,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     }
   },
   "order": [
-    "announcement-bar",
+    "announcement_bar_MJPRhV",
     "header"
   ]
 }

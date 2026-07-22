@@ -1,20 +1,141 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
+        "d7b06c99-1755-4055-8fd7-2df486d5e367": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
+            "heading": "Award-Winning Children's Books Loved By 450,000+ Customers Worldwide",
+            "heading_size": "h1"
           }
         },
         "button": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify://collections/hardcovers",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "text_xXXDTa": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "The Complete Unconditional Love Series available in HARDCOVER",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "d7b06c99-1755-4055-8fd7-2df486d5e367",
+        "button",
+        "text_xXXDTa"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 750px) {h1, .h1 {line-height: 200% !important; } h2 {font-size: 60px; letter-spacing: 6px; font-weight: 300; } .banner--desktop-transparent .banner__box {margin: 100px 0 !important; }}",
+        "@media screen and (max-width: 767px) {h1, .h1 {line-height: 150% !important; } h2 {font-size: 24px; letter-spacing: 2px; font-weight: 300; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Happiness-Cover-No-Text-2000x2000-b_1a88ab9d-406f-49fa-9f68-1d8129f0995a.jpg",
+        "image_2": "shopify://shop_images/Proud-Cover-No-Text-2000x2000-b.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "image_behavior": "ambient",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "rich_text_FYEVac": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UnkREj": {
+          "type": "heading",
+          "settings": {
+            "heading": "NEW: Personalize <em>I Wish You Happiness</em> With ANY NAME · First 25 Customers Get 50% Off! · Preview The Book Before Ordering",
+            "heading_size": "h2"
+          }
+        },
+        "text_nkyrXm": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_Rmr7GB": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UnkREj",
+        "text_nkyrXm",
+        "button_Rmr7GB"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 750px) {h2 {font-size: 28px; line-height: 56px; letter-spacing: 4px; }}",
+        "@media only screen and (max-width: 750px) {h2 {font-size: 20px; line-height: 40px; letter-spacing: 3px; }}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 32
+      }
+    },
+    "image_banner_3NEP4z": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_tfaDQ4": {
+          "type": "heading",
+          "settings": {
+            "heading": "I LOVE YOU Personalized Hardcover Kickstarter",
+            "heading_size": "h2"
+          }
+        },
+        "text_cwMWYT": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_9GwTP8": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Click to Learn More",
+            "button_link_1": "https://www.kickstarter.com/projects/piccopuppy/iloveyou",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -23,53 +144,838 @@
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "heading_tfaDQ4",
+        "text_cwMWYT",
+        "buttons_9GwTP8"
       ],
+      "disabled": true,
+      "custom_css": [
+        "@media screen and (max-width: 766px) {.banner__box {background-color: #fff !important; width: 70%; padding: 20px; }}"
+      ],
+      "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image_overlay_opacity": 40,
+        "image": "shopify://shop_images/I-Love-You-Hardcover-1600x900.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "image_behavior": "none",
+        "image_behavior": "ambient",
+        "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "mobile_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "background-2",
         "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
         "show_text_below": false
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "collage_VJWrMR": {
+      "type": "collage",
+      "blocks": {
+        "image_wqiejF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Customer-Logos-1100x159.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_wqiejF"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "name": "t:sections.collage.presets.name",
       "settings": {
-        "title": "Featured products",
+        "heading": "",
         "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "none",
+        "color_scheme": "",
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_DTKpPU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wqzi36": {
+          "type": "heading",
+          "settings": {
+            "heading": "COMING IN JULY: <strong>Personalize</strong> <em>I Wish You Happiness</em> With <strong>ANY NAME</strong> · First 25 Customers Get 50% Off",
+            "heading_size": "h2"
+          }
+        },
+        "text_efUTKi": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_AWbndi": {
+          "type": "button",
+          "settings": {
+            "button_label": "Sign Up To Our Newsletter for News",
+            "button_link": "https://www.piccopuppy.com/pages/giveaways",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wqzi36",
+        "text_efUTKi",
+        "button_AWbndi"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".rich-text__buttons {margin-top: 0px;}",
+        "@media only screen and (min-width: 750px) {h2, .h2 {font-size: 24px; line-height: 48px; letter-spacing: 4px; }}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 48
+      }
+    },
+    "featured_product_8T6ihF": {
+      "type": "featured-product",
+      "blocks": {
+        "text_gHR7cU": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_zKVTXf": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_hQzfbR": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_BVAdm3": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_CbXYNK": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons_Xed9hP": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "text_Bz8Lpy": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "The Unconditional Love Series (Book 1 of 9) <strong>Mom's Choice Awards® Gold Award2021 Readers' Favorite Book Awards Gold Medal Winner2021 Readers' Favorite Illustration Award Winner</strong>2021 International Book Awards Winner2020 Wishing Shelf Book Awards Winner2020 National Indie Excellence Awards Winner2020 Foreword Indies Book of The Year Awards Finalist",
+            "text_style": "body"
+          }
+        },
+        "custom_liquid_8jQeMQ": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0267/7286/5217/files/6-Awards-1Row-720x119_203cffe2-175a-42e6-abe0-0031f209d197.png?v=1696501261\" width=\"440px\"></p>\n<p><meta charset=\"utf-8\">The Unconditional Love Series (Book 1 of 9) </p>\n<p><strong>Mom's Choice Awards® Gold Award</strong><br><strong>2021 Readers' Favorite Book Awards Gold Medal Winner</strong><br><strong>2021 Readers' Favorite Illustration Award Winner</strong><br>2021 International Book Awards Winner<br>2020 Wishing Shelf Book Awards Winner<br>2020 National Indie Excellence Awards Winner<br>2020 Foreword Indies Book of The Year Awards Finalist</p>\n<p class=\"p1\">This timeless classic, created by an award-winning author and award-winning illustrator, is filled with heartfelt wishes to inspire children to dream big, stand tall, and believe in themselves. From spreading their wings and embracing adventure to showing kindness and never giving up, each page is a powerful reminder that they are strong, capable, and limitless.</p>\n<p class=\"p1\"><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">This beautiful 10-by-10-inch hardcover is perfect for baby showers, birthdays, Christmas, or simply to say, \"I love you.\"</span></p>\n<p class=\"p1\">Join 450,000 teachers, grandparents, and parents to discover why so many love and recommend the <em>Unconditional Love Series</em> of empowering children’s picture books.</p>\n<p><strong>REVIEWS</strong></p>\n<p>\"I Wish You Happiness is the most perfect gift EVER for a young child's birthday. Or, even better, a christening present. Highly recommended!\"<em> (5-Star Review) - The Wishing Shelf</em></p>\n<p>\"An excellent baby shower gift or a whimsical graduation present.\"<em> - (Editor's Pick) Publishers Weekly's BookLife</em></p>\n<p>\"A warm hug of a picture book wishing all children happy, fulfilled, and meaningful lives.\"<em> - Kirkus Reviews</em></p>\n<p>\"This uplifting book is filled with positive and beautiful messages that will inspire young readers...a highly recommended and inspiring read.\"<em> - (5 Stars) Melinda Facal, Readers' Favorite</em></p>\n<p><strong>PRODUCT DETAILS</strong></p>\n<ul>\n<li>\n<strong>Age Range</strong>: ‎Baby - 6 years</li>\n<li>\n<strong>Pages</strong>: ‎39</li>\n<li>\n<strong>Printing</strong>: US / Canada / UK / Netherlands / Australia</li>\n<li>\n<strong>Dispatch</strong>: 2-5 working days</li>\n</ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_gHR7cU",
+        "title_zKVTXf",
+        "price_hQzfbR",
+        "variant_picker_BVAdm3",
+        "quantity_selector_CbXYNK",
+        "buy_buttons_Xed9hP",
+        "text_Bz8Lpy",
+        "custom_liquid_8jQeMQ"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 750px) {.product__title {font-family: Georgia; font-size: 32px; line-height: 48px; }}",
+        "@media only screen and (max-width: 750px) {.product__title {font-family: Georgia; font-size: 24px; line-height: 36px; }}",
+        ".product__media-list .media > * {width: 100%; height: 85%;}",
+        ".product__info-container > *:first-child {display: none !important;}",
+        ".product-form__input {display: none !important;}",
+        ".product__tax {display: none !important;}",
+        ".product-media-container.constrain-height .media {margin-bottom: -35px;}"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "i-wish-you-happiness-hardcover",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 64,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_AnKn7g": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9kdNfK": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "<p>⭐⭐⭐⭐⭐</p><p>\"They [<em>The Complete Unconditional Love Series for Olivia</em>] are <strong>soooo beautiful!</strong> <strong>Quality is excellent just like you promised!</strong>\"—<em>Lilit, Finland</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_m4JfY6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>⭐⭐⭐⭐⭐</p><p>\"The books are really lovely and special. <strong>My husband got teary-eyed when I showed them to him</strong>. Forever grateful!\"—<em>Danielle, MN, USA</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WmtaEf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>⭐⭐⭐⭐⭐</p><p>\"I read this book with my 8 year old grandson and 5 year old granddaughter and <strong>they both absolutely loved it</strong>.\"—<em>Sarah, Torquay, UK</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TBHKcd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>⭐⭐⭐⭐⭐</p><p>\"<strong>These books are truly beautiful!</strong> The words, the illustrations. Love pouring out of every page.\"—<em>Eva, SA, Australia</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9kdNfK",
+        "column_m4JfY6",
+        "column_WmtaEf",
+        "column_TBHKcd"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media only screen and (min-width: 750px) {h2, .h2 {font-size: calc(var(--font-heading-scale) * 2.25rem); }}",
+        "@media only screen and (max-width: 750px) {h2, .h2 {font-size: calc(var(--font-heading-scale) * 2rem); }}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Customers Love Our Hardcovers",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 24
+      }
+    },
+    "multicolumn_VcRtmg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_btNDHp": {
+          "type": "column",
+          "settings": {
+            "title": "Love It Or We'll Make It Right",
+            "text": "<p>We promise you'll be happy with our 100% risk-free \"<strong>Love it or we'll make it right</strong>\" <strong>12-month happiness guarantee</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_krrGNi": {
+          "type": "column",
+          "settings": {
+            "title": "Exceptional Quality You Can Feel",
+            "text": "<p>We use thick, 100-pound (150 gsm) FSC & PEFC certified paper for <strong>long-lasting durability and a premium finish.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Gj6BLJ": {
+          "type": "column",
+          "settings": {
+            "title": "Customer Support, Done Right",
+            "text": "<p><strong>Michael—the author—personally manages your order,</strong> provides tracking, and will answer any questions you have.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_btNDHp",
+        "column_krrGNi",
+        "column_Gj6BLJ"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Shop With Confidence",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-966ad6a6-a271-41cf-9111-f876ec1c87fa",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17840216276c6da89a": {
+      "type": "apps",
+      "blocks": {
+        "faq_page_accordion_help_center_app_embeded_ApQaHn": {
+          "type": "shopify://apps/faq-page-accordion-help-center/blocks/app-embeded/5f16be1e-7529-4a25-bf09-0bc0794f5223",
+          "settings": {
+            "popup_embedded_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "faq_page_accordion_help_center_app_embeded_ApQaHn"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich_text_4XCiAY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_d7aeD7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>NEW: Dear Daughter Personalized</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_8dzcGw": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_qYzYEF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click for more info",
+            "button_link": "https://www.piccopuppy.com/pages/dear-daughter-personalized-books",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_d7aeD7",
+        "text_8dzcGw",
+        "button_qYzYEF"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".rich-text__buttons {margin-top: -20px;}",
+        "@media only screen and (min-width: 750px) {h2, .h2 {font-size: 28px; }}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 48
+      }
+    },
+    "rich_text_FrmXyc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8RqECW": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Personalized Hardcovers Available</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_63f4Jm": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_p9iWQe": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click for more info",
+            "button_link": "https://www.piccopuppy.com/pages/personalized-books",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8RqECW",
+        "text_63f4Jm",
+        "button_p9iWQe"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".rich-text__buttons {margin-top: -20px;}",
+        "@media only screen and (min-width: 750px) {h2, .h2 {font-size: 28px; }}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 48
+      }
+    },
+    "featured_product_iXCJmJ": {
+      "type": "featured-product",
+      "blocks": {
+        "text_98RCNP": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_pNDrXP": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_RN37Xk": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_maCpAw": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_6kCnKj": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_bVhtEB": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_98RCNP",
+        "title_pNDrXP",
+        "price_RN37Xk",
+        "variant_picker_maCpAw",
+        "quantity_selector_6kCnKj",
+        "buy_buttons_bVhtEB"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media only screen and (min-width: 750px) {.product__title {font-family: Georgia; font-size: 24px; line-height: 36px; }}",
+        "@media only screen and (max-width: 750px) {.product__title {font-family: Georgia; font-size: 18px; line-height: 27px; }}",
+        ".product__media-list .media > * {width: 100%; height: 85%;}",
+        ".product__info-container > *:first-child {display: none !important;}",
+        ".product-form__input {display: none !important;}",
+        ".product__tax {display: none !important;}",
+        ".product-media-container.constrain-height .media {margin-bottom: -35px;}"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "unconditional-love-series-9-hardcovers",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 64,
+        "padding_bottom": 0
+      }
+    },
+    "featured_product_3xchtN": {
+      "type": "featured-product",
+      "blocks": {
+        "text_gQnDUh": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_EBrAQN": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_MrdnEc": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_QFVMhi": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_7REhik": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_XgGJjG": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_gQnDUh",
+        "title_EBrAQN",
+        "price_MrdnEc",
+        "variant_picker_QFVMhi",
+        "quantity_selector_7REhik",
+        "buy_buttons_XgGJjG"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media only screen and (min-width: 750px) {.product__title {font-family: Georgia; font-size: 24px; line-height: 36px; }}",
+        "@media only screen and (max-width: 750px) {.product__title {font-family: Georgia; font-size: 18px; line-height: 27px; }}",
+        ".product__text.caption-with-letter-spacing {display: none;}",
+        ".product__tax {display: none;}",
+        ".product-media-container.constrain-height.media-fit-contain {margin-bottom: 15px;}"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "unconditional-love-series-olivia-9-hardcovers",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "8f14500a-85a5-4baa-8368-9825d7ce9421": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        ".title,.title-wrapper-with-link,.collection__description > * {text-align: center;}",
+        ".collection__description > * {margin-bottom: 50px;}",
+        ".collection__title h2 {font-size: 25px; line-height: 38px !important;}",
+        ".badge {border-color: #ffffff; text-transform: uppercase;}",
+        ".full-unstyled-link {font-family: Georgia; font-size: 20px; line-height: 30px !important;}",
+        ".quick-add {margin-bottom: 75px;}"
+      ],
+      "settings": {
+        "collection": "homepage-collection",
+        "products_to_show": 25,
+        "title": "",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
+        "columns_desktop": 3,
+        "enable_desktop_slider": false,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "swipe_on_mobile": false,
+        "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "rich_text_4WiyNT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_drx3xR": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_VEActy": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>AUGUST OFFERS: 15% OFF US$35+ · 20% OFF US$85+</strong></h3>"
+          }
+        },
+        "button_Xiczem": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_drx3xR",
+        "text_VEActy",
+        "button_Xiczem"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {font-size: 14px;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "featured_collection_Czixep": {
+      "type": "featured-collection",
+      "disabled": true,
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "",
+        "products_to_show": 2,
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 1,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "none",
         "columns_mobile": "2",
-        "padding_top": 44,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "17840232302050c15e": {
+      "type": "apps",
+      "blocks": {
+        "faq_page_accordion_help_center_app_embeded_EVE8JG": {
+          "type": "shopify://apps/faq-page-accordion-help-center/blocks/app-embeded/5f16be1e-7529-4a25-bf09-0bc0794f5223",
+          "settings": {
+            "popup_embedded_id": "faq-id-6604"
+          }
+        }
+      },
+      "block_order": [
+        "faq_page_accordion_help_center_app_embeded_EVE8JG"
+      ],
+      "custom_css": [
+        ".sun-editor-editable * p {font-size: 24px; font-weight: 10;}"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1784013568d92ea78f": {
+      "type": "apps",
+      "disabled": true,
+      "custom_css": [
+        ".tw-faq-number {display: none;}",
+        ".tw-faq-left {display: flex; align-items: center; gap: 0;}",
+        ".tw-faq-item {border-bottom: 1px solid #eee; margin: 1rem 0;}",
+        ".tw-faq-question {font-size: 16px; font-weight: 600; color: #121212; transition: color 0.3s ease;}"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "17840249473964463a": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1696067488ca54295d": {
+      "type": "apps",
+      "blocks": {
+        "773d23e8-332c-4178-abd5-b5ba3ab9b1d2": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        },
+        "a157a468-b384-4285-a388-88b9f4d22955": {
+          "type": "shopify://apps/judge-me-reviews/blocks/ugc_media_grid/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "773d23e8-332c-4178-abd5-b5ba3ab9b1d2",
+        "a157a468-b384-4285-a388-88b9f4d22955"
+      ],
+      "custom_css": [
+        ".jdgm-ugc-media-wrapper {margin-bottom: 50px !important;}"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "17517885421ce3e0da": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_ugc_media_grid_bzdzi4": {
+          "type": "shopify://apps/judge-me-reviews/blocks/ugc_media_grid/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_ugc_media_grid_bzdzi4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich_text_ABQiqk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4XMnRE": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_jNHimy": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>OFFERS: 15% OFF US$35+ · 20% OFF US$85+</strong></p>"
+          }
+        },
+        "button_rgz3GC": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4XMnRE",
+        "text_jNHimy",
+        "button_rgz3GC"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 0
       }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "rich_text_FYEVac",
+    "image_banner_3NEP4z",
+    "collage_VJWrMR",
+    "rich_text_DTKpPU",
+    "featured_product_8T6ihF",
+    "multicolumn_AnKn7g",
+    "multicolumn_VcRtmg",
+    "17840216276c6da89a",
+    "rich_text_4XCiAY",
+    "rich_text_FrmXyc",
+    "featured_product_iXCJmJ",
+    "featured_product_3xchtN",
+    "8f14500a-85a5-4baa-8368-9825d7ce9421",
+    "rich_text_4WiyNT",
+    "featured_collection_Czixep",
+    "17840232302050c15e",
+    "1784013568d92ea78f",
+    "17840249473964463a",
+    "1696067488ca54295d",
+    "17517885421ce3e0da",
+    "rich_text_ABQiqk"
   ]
 }

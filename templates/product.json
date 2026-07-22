@@ -1,30 +1,50 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
-          "type": "title"
+          "type": "title",
+          "settings": {}
+        },
+        "c2407694-7f87-4ea6-93e4-356d8155c55f": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
-          "type": "price"
+          "type": "price",
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
+            "picker_type": "button"
           }
         },
         "quantity_selector": {
-          "type": "quantity_selector"
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "picco_puppy_pdf_personalizer_pico_puppy_panel_REdzFN": {
+          "type": "shopify://apps/picco-puppy-pdf-personalizer/blocks/pico-puppy-panel/019e872d-a4e9-79d3-93bf-fe816507d36e",
+          "settings": {
+            "enabled": true,
+            "product_form_id_override": "product-form-",
+            "format_card_accent": "#daa520",
+            "format_card_border": "#9ca3af",
+            "format_card_badge_bg": "#daa520",
+            "format_card_button_bg": "#daa520",
+            "format_card_button_text": "#ffffff"
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -33,47 +53,143 @@
             "show_gift_card_recipient": true
           }
         },
-        "description": {
-          "type": "description"
-        },
-        "share": {
-          "type": "share",
+        "custom_liquid_dn7Ezi": {
+          "type": "custom_liquid",
           "settings": {
-            "share_label": "Share"
+            "custom_liquid": "{% if product.metafields.custom.personalized_product.value != blank %}\n    <style>\n    .or-divider {\n    position: relative;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-top: -1.2rem !important;\n    }\n    .or-divider > span {\n    z-index: 1;\n    text-align: center;\n    padding-inline: 0.8rem;\n    background: rgb(var(--color-background));\n    font-size: 1.4rem;\n    line-height: 1em;\n    }\n    .or-divider:after {\n    content: '';\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    z-index: -1;\n    width: 100%;\n    height: .1rem;\n    background: rgba(var(--color-foreground), 0.1);\n    }\n    </style>\n\n    <div class=\"or-divider\"><span>OR</span></div>\n\n    <button\n    type=\"button\"\n    class=\"picco-button button button--full-width button--primary\"\n    data-product-id=\"{{ product.metafields.custom.personalized_product.value.id }}\">\n    Personalize your book\n    </button>\n{% endif %}"
+          }
+        },
+        "collapsible_tab_F3G3kB": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Personalize With Any Name",
+            "icon": "heart",
+            "content": "<p><strong>Personalize this book</strong> with a child's name on the cover and woven into the story. <a href=\"https://www.piccopuppy.com/pages/personalized-books\" title=\"https://www.piccopuppy.com/pages/personalized-books\">Click here</a> for more info.</p>",
+            "page": ""
+          }
+        },
+        "efa90221-b838-4d0c-8a3d-40c4711a163d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Got A Question? We're Here To Help",
+            "icon": "chat_bubble",
+            "content": "<p>Reach out via the chat box (bottom-right corner), <a href=\"/pages/help\" title=\"Help & Contact Us\">contact form</a>, or email us at help@piccopuppy.com.</p>",
+            "page": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "01b8b087-4f4a-4ed9-9c18-01784cc1df17": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Love It Or We'll Make It Right",
+            "icon": "check_mark",
+            "content": "<p>We promise you'll be happy with our 100% risk-free \"Love it or we'll make it right\" <strong>12-Month Happiness Guarantee</strong>.</p>",
+            "page": ""
+          }
+        },
+        "c3c15872-f75c-4ca7-a8b7-e79f01bbb73d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Exceptional Quality You Can Feel",
+            "icon": "check_mark",
+            "content": "<p>Our hardcovers are printed on thick, 100-pound paper to ensure <strong>durability and exceptional print quality</strong>.</p>",
+            "page": ""
+          }
+        },
+        "8c2ef778-3eab-4a1a-81d2-f9ba1ee096fa": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "We Now Ship Worldwide!",
+            "icon": "check_mark",
+            "content": "<p>We now deliver straight to your door in over <a href=\"/pages/shipping\" title=\"Shipping & Returns\">70 countries and territories</a> worldwide.</p>",
+            "page": ""
+          }
+        },
+        "4de7c0a1-759f-43b3-8ff0-c0e56b2689b4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Kind to Kids—and the Earth",
+            "icon": "check_mark",
+            "content": "<p>Our hardcovers are printed on FSC & PEFC certified paper, meaning the paper used for our books is sourced from sustainable forests. Our printer plants enough trees to balance the carbon emission from your book production.</p>",
+            "page": ""
+          }
+        },
+        "bbd97ce3-1c21-4fcb-b6a0-9f23a781d279": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "About the Author",
+            "icon": "check_mark",
+            "content": "<p>Michael Wong is an award-winning British-Australian author of beautiful, empowering picture books for kids 0 to 8+. Michael lives with his wife and two boys in Sydney, Australia.</p>",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "vendor",
         "title",
+        "c2407694-7f87-4ea6-93e4-356d8155c55f",
         "price",
         "variant_picker",
         "quantity_selector",
+        "picco_puppy_pdf_personalizer_pico_puppy_panel_REdzFN",
         "buy_buttons",
+        "custom_liquid_dn7Ezi",
+        "collapsible_tab_F3G3kB",
+        "efa90221-b838-4d0c-8a3d-40c4711a163d",
         "description",
-        "share"
+        "01b8b087-4f4a-4ed9-9c18-01784cc1df17",
+        "c3c15872-f75c-4ca7-a8b7-e79f01bbb73d",
+        "8c2ef778-3eab-4a1a-81d2-f9ba1ee096fa",
+        "4de7c0a1-759f-43b3-8ff0-c0e56b2689b4",
+        "bbd97ce3-1c21-4fcb-b6a0-9f23a781d279"
+      ],
+      "custom_css": [
+        ".product__tax {display: none;}",
+        "@media only screen and (min-width: 767px) {h1 {font-family: Georgia; font-size: 32px; line-height: 48px !important; }}",
+        "@media only screen and (max-width: 766px) {h1 {font-family: Georgia; font-size: 20px; line-height: 30px !important; }}"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "color_scheme": "scheme-1",
-        "media_position": "left",
-        "gallery_layout": "stacked",
-        "media_size": "large",
-        "constrain_to_viewport": true,
+        "media_size": "medium",
+        "constrain_to_viewport": false,
         "media_fit": "contain",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
+        "gallery_layout": "thumbnail",
+        "mobile_thumbnails": "show",
+        "media_position": "left",
+        "image_zoom": "none",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
+        "padding_top": 24,
+        "padding_bottom": 52
       }
     },
-    "disclosures": {
-      "type": "disclosures",
+    "1696058692e802f9c5": {
+      "type": "apps",
+      "blocks": {
+        "9b377639-fb24-4d37-b78d-21299a98f7af": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        },
+        "c740b7be-c592-4562-abb0-78afd0adf300": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "9b377639-fb24-4d37-b78d-21299a98f7af",
+        "c740b7be-c592-4562-abb0-78afd0adf300"
+      ],
       "settings": {
-        "padding_top": 36,
-        "padding_bottom": 0
+        "include_margins": true
       }
     },
     "related-products": {
@@ -83,21 +199,41 @@
         "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,
-        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "color_scheme": "background-1",
         "image_ratio": "square",
         "image_shape": "default",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 28
+        "show_rating": true,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "custom_liquid_tgAYtR": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        "form {text-align: center;}",
+        "input[type=\"email\" i] {width: 250px; height: 24px; font-size: 16px; padding: 15px 5px;}",
+        "button {width: 250px; height: 24px; font-size: 16px; padding: 5px 5px 23px;}",
+        ".ml-form-embedSubmit {margin: -20px 0 -40px;}",
+        "*,*::before,*::after {box-sizing: inherit; text-align: center;}",
+        ".jdgm-widget.jdgm-widget {margin-bottom: 300px;}"
+      ],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n.or-divider {\nposition: relative;\ndisplay: flex;\nalign-items: center;\njustify-content: center;\nmargin-top: -1.2rem !important;\n}\n.or-divider > span {\nz-index: 1;\ntext-align: center;\npadding-inline: 0.8rem;\nbackground: rgb(var(--color-background));\nfont-size: 1.4rem;\nline-height: 1em;\n}\n.or-divider:after {\ncontent: '';\nposition: absolute;\ntop: 50%;\ntransform: translateY(-50%);\nz-index: -1;\nwidth: 100%;\nheight: .1rem;\nbackground: rgba(var(--color-foreground), 0.1);\n}\n</style>\n\n<div class=\"or-divider\"><span>OR</span></div>\n\n<button\ntype=\"button\"\nclass=\"picco-button button button--full-width button--primary\"\ndata-product-id=\"{{ product.id }}\">\nPersonalize your book\n</button>",
+        "color_scheme": "background-2",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "disclosures",
-    "related-products"
+    "1696058692e802f9c5",
+    "related-products",
+    "custom_liquid_tgAYtR"
   ]
 }

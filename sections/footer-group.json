@@ -1,28 +1,88 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "custom_liquid_VL3pK8": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "form {text-align: center;}",
+        "input[type=\"email\" i] {width: 250px; height: 24px; font-size: 16px; padding: 15px 5px;}",
+        "button {width: 250px; height: 24px; font-size: 16px; padding: 5px 5px 23px; color: #555;}",
+        ".ml-form-embedSubmit {margin: -20px 0 -40px;}",
+        "*,*::before,*::after {box-sizing: inherit; text-align: center;}",
+        ".jdgm-widget.jdgm-widget {margin-bottom: 300px;}",
+        "@media only screen and (max-width: 750px) {h2, .h2 {font-size: 16px !important; margin: 0 20px; }}"
+      ],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<h2 style=\"font-size: 22px;\">FREE <i>I Will Always Be Proud of You</i> ebook + 10% OFF first order + Monthly giveaway</h2>\n<div class=\"ml-form-embedContainer ml-subscribe-form ml-subscribe-form-4424286\" id=\"mlb2-4424286\">\n<div class=\"ml-form-align-center\">\n<div class=\"ml-form-embedWrapper embedForm\">\n<div class=\"ml-form-embedBody ml-form-embedBodyDefault row-form\">\n<div style=\"margin-bottom: 0px;\" class=\"ml-form-embedContent\"><br></div>\n<form method=\"post\" data-code=\"\" action=\"https://assets.mailerlite.com/jsonp/374779/forms/154535016728102788/subscribe\" class=\"ml-block-form\" target=\"_blank\">\n<div class=\"ml-form-formContent\">\n<div class=\"ml-form-fieldRow ml-last-item\">\n<div class=\"ml-field-group ml-field-email ml-validate-email ml-validate-required\"><!-- input --> <input autocomplete=\"email\" placeholder=\"Enter your email address\" name=\"fields[email]\" data-inputmask=\"\" class=\"form-control\" type=\"email\" aria-required=\"true\" aria-label=\"email\"> <!-- /input --> <!-- textarea --> <!-- /textarea --> <!-- select --> <!-- /select --> <!-- checkboxes --> <!-- /checkboxes --> <!-- radio --> <!-- /radio --> <!-- countries --> <!-- /countries --></div>\n</div>\n</div>\n<!-- Privacy policy -->\n<div class=\"ml-form-embedPermissions\">\n<div class=\"ml-form-embedPermissionsContent default privacy-policy\"><br></div>\n</div>\n<!-- /Privacy policy --> <input value=\"1\" name=\"ml-submit\" type=\"hidden\">\n<div class=\"ml-form-embedSubmit\"><button class=\"primary\" type=\"submit\">Sign Up</button>\n<div class=\"ml-form-embedSubmitLoad\"><br></div>\n<button class=\"loading\" type=\"button\" style=\"display: none;\" disabled=\"disabled\"><span class=\"sr-only\">Loading...</span> </button></div>\n<input value=\"true\" name=\"anticsrf\" type=\"hidden\"></form></div>\n<div style=\"display: none;\" class=\"ml-form-successBody row-success\">\n<div class=\"ml-form-successContent\">\n<p><span style=\"letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);\"><span style=\"font-size: 16px;\">Thanks! We've emailed you the discount code.</span></span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><script>    function ml_webform_success_4424286() {      var $ = ml_jQuery || jQuery;      $('.ml-subscribe-form-4424286 .row-success').show();      $('.ml-subscribe-form-4424286 .row-form').hide();    }      </script> <script src=\"https://groot.mailerlite.com/js/w/webforms.min.js?v1f25ee4b05f240a833e02c19975434a4\" type=\"text/javascript\"></script> <script>            fetch(\"https://assets.mailerlite.com/jsonp/374779/forms/84592351145624620/takel\")        </script></p>",
+        "color_scheme": "background-2",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
-      "blocks": {},
-      "block_order": [],
+      "blocks": {
+        "9706ee63-be73-40fb-9b5c-90b5897a02df": {
+          "type": "link_list",
+          "settings": {
+            "heading": "SHOP",
+            "menu": "quick-links"
+          }
+        },
+        "005c4736-5eda-453d-b01a-706ac2e5f5c9": {
+          "type": "link_list",
+          "settings": {
+            "heading": "MISC",
+            "menu": "misc"
+          }
+        },
+        "33782240-89de-469d-bb77-a5ce969a5169": {
+          "type": "text",
+          "settings": {
+            "heading": "IN PRODUCTION - <a href=\"/pages/giveaways\" title=\"Giveaways\">SIGN UP FOR NEWS</a>",
+            "subtext": "<ol><li>Additional titles to PERSONALIZE with ANY NAME (September onwards)</li><li>Bilingual books to PERSONALIZE with ANY NAME (December)</li></ol>"
+          }
+        }
+      },
+      "block_order": [
+        "9706ee63-be73-40fb-9b5c-90b5897a02df",
+        "005c4736-5eda-453d-b01a-706ac2e5f5c9",
+        "33782240-89de-469d-bb77-a5ce969a5169"
+      ],
+      "custom_css": [
+        ".footer__copyright {margin: 2em auto !important;}",
+        ".footer-block__details-content {font-size: 14px;}",
+        ".footer-block__details-content ol li {margin-bottom: 10px; margin-left: -20px;}"
+      ],
       "settings": {
-        "color_scheme": "scheme-1",
-        "newsletter_enable": true,
-        "newsletter_heading": "Subscribe to our emails",
-        "enable_follow_on_shop": true,
+        "color_scheme": "background-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Win A Hardcover Every Month + Book News",
+        "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": true,
-        "enable_language_selector": true,
+        "enable_language_selector": false,
         "payment_enable": true,
         "show_policy": true,
         "margin_top": 0,
-        "padding_top": 36,
+        "padding_top": 52,
         "padding_bottom": 36
       }
     }
   },
   "order": [
+    "custom_liquid_VL3pK8",
     "footer"
   ]
 }

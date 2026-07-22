@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -5,32 +14,57 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
-        "color_scheme": "scheme-1"
+        "color_scheme": "background-1"
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "custom_css": [
+        ".title,.title-wrapper-with-link,.collection__description > * {text-align: center;}",
+        ".collection__description > * {margin-bottom: 50px;}",
+        ".collection__title h2 {font-size: 25px; line-height: 38px !important;}",
+        ".badge {border-color: #ffffff; text-transform: uppercase;}",
+        ".full-unstyled-link {font-size: 22px; line-height: 33px !important;}",
+        "@media screen and (max-width: 766px) {.full-unstyled-link {font-size: 22px; line-height: 33px !important; } .quick-add {margin-bottom: 50px; }}",
+        "@media screen and (min-width: 767px) {.quick-add {margin-bottom: 50px; }}"
+      ],
       "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
+        "products_per_page": 24,
+        "columns_desktop": 3,
+        "columns_mobile": "2",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "quick_add": "none",
         "enable_filtering": true,
         "filter_type": "horizontal",
         "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    },
+    "169607046865a9d49e": {
+      "type": "apps",
+      "blocks": {
+        "8681f3ab-d2f6-4790-aa06-d25af9596e03": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "8681f3ab-d2f6-4790-aa06-d25af9596e03"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "169607046865a9d49e"
   ]
 }
