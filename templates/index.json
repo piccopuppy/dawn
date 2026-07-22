@@ -275,8 +275,21 @@
           "disabled": true,
           "settings": {}
         },
+        "picco_puppy_pdf_personalizer_pico_puppy_panel_cQEcdw": {
+          "type": "shopify://apps/picco-puppy-pdf-personalizer/blocks/pico-puppy-panel/019e872d-a4e9-79d3-93bf-fe816507d36e",
+          "settings": {
+            "enabled": true,
+            "product_form_id_override": "product-form-",
+            "format_card_accent": "#DAA520",
+            "format_card_border": "#9CA3AF",
+            "format_card_badge_bg": "#DAA520",
+            "format_card_button_bg": "#DAA520",
+            "format_card_button_text": "#FFFFFF"
+          }
+        },
         "buy_buttons_Xed9hP": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
@@ -303,6 +316,7 @@
         "price_hQzfbR",
         "variant_picker_BVAdm3",
         "quantity_selector_CbXYNK",
+        "picco_puppy_pdf_personalizer_pico_puppy_panel_cQEcdw",
         "buy_buttons_Xed9hP",
         "text_Bz8Lpy",
         "custom_liquid_8jQeMQ"
