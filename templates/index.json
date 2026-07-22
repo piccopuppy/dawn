@@ -258,6 +258,10 @@
             "heading_size": "h1"
           }
         },
+        "judge_me_reviews_preview_badge_mR3fjX": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
         "price_hQzfbR": {
           "type": "price",
           "settings": {}
@@ -274,18 +278,6 @@
           "type": "quantity_selector",
           "disabled": true,
           "settings": {}
-        },
-        "picco_puppy_pdf_personalizer_pico_puppy_panel_cQEcdw": {
-          "type": "shopify://apps/picco-puppy-pdf-personalizer/blocks/pico-puppy-panel/019e872d-a4e9-79d3-93bf-fe816507d36e",
-          "settings": {
-            "enabled": true,
-            "product_form_id_override": "product-form-",
-            "format_card_accent": "#daa520",
-            "format_card_border": "#9ca3af",
-            "format_card_badge_bg": "#daa520",
-            "format_card_button_bg": "#daa520",
-            "format_card_button_text": "#ffffff"
-          }
         },
         "buy_buttons_Xed9hP": {
           "type": "buy_buttons",
@@ -313,10 +305,10 @@
       "block_order": [
         "text_gHR7cU",
         "title_zKVTXf",
+        "judge_me_reviews_preview_badge_mR3fjX",
         "price_hQzfbR",
         "variant_picker_BVAdm3",
         "quantity_selector_CbXYNK",
-        "picco_puppy_pdf_personalizer_pico_puppy_panel_cQEcdw",
         "buy_buttons_Xed9hP",
         "text_Bz8Lpy",
         "custom_liquid_8jQeMQ"
