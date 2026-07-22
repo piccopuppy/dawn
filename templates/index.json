@@ -280,11 +280,11 @@
           "settings": {
             "enabled": true,
             "product_form_id_override": "product-form-",
-            "format_card_accent": "#DAA520",
-            "format_card_border": "#9CA3AF",
-            "format_card_badge_bg": "#DAA520",
-            "format_card_button_bg": "#DAA520",
-            "format_card_button_text": "#FFFFFF"
+            "format_card_accent": "#daa520",
+            "format_card_border": "#9ca3af",
+            "format_card_badge_bg": "#daa520",
+            "format_card_button_bg": "#daa520",
+            "format_card_button_text": "#ffffff"
           }
         },
         "buy_buttons_Xed9hP": {
