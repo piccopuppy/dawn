@@ -27,7 +27,8 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
         "quantity_selector": {
@@ -55,6 +56,7 @@
         },
         "custom_liquid_dn7Ezi": {
           "type": "custom_liquid",
+          "name": "Personalized Button",
           "settings": {
             "custom_liquid": "{% if product.metafields.custom.personalized_product.value != blank %}\n    <style>\n    .or-divider {\n    position: relative;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-top: -1.2rem !important;\n    }\n    .or-divider > span {\n    z-index: 1;\n    text-align: center;\n    padding-inline: 0.8rem;\n    background: rgb(var(--color-background));\n    font-size: 1.4rem;\n    line-height: 1em;\n    }\n    .or-divider:after {\n    content: '';\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    z-index: -1;\n    width: 100%;\n    height: .1rem;\n    background: rgba(var(--color-foreground), 0.1);\n    }\n    </style>\n\n    <div class=\"or-divider\"><span>OR</span></div>\n\n    <button\n    type=\"button\"\n    class=\"picco-button button button--full-width button--primary\"\n    data-product-id=\"{{ product.metafields.custom.personalized_product.value.id }}\">\n    Personalize your book\n    </button>\n{% endif %}"
           }
@@ -152,6 +154,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "color_scheme": "",
         "media_size": "medium",
         "constrain_to_viewport": false,
         "media_fit": "contain",
