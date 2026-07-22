@@ -10,3 +10,21 @@ Thumbs.db
 .shopify
 node_modules
 *.zip
+
+# AI assistant files #
+######################
+# Shared AI rules
+AGENTS.md
+# Claude
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+# Cursor
+.cursor/
+.cursorrules
+.cursorignore
+.cursorindexingignore
+# Kilo Code
+.kilocode/
+.kilocodemodes
+.kilocodeignore
