@@ -346,6 +346,25 @@
         "padding_bottom": 0
       }
     },
+    "17840249473964463a": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_b73rLL": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "i-wish-you-happiness-personalized",
+            "review_data": "real_data",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_b73rLL"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "multicolumn_AnKn7g": {
       "type": "multicolumn",
       "blocks": {
@@ -873,25 +892,6 @@
         ".tw-faq-left {display: flex; align-items: center; gap: 0;}",
         ".tw-faq-item {border-bottom: 1px solid #eee; margin: 1rem 0;}",
         ".tw-faq-question {font-size: 16px; font-weight: 600; color: #121212; transition: color 0.3s ease;}"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "17840249473964463a": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_homepage_b73rLL": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "",
-            "review_data": "sample_data",
-            "max_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_homepage_b73rLL"
       ],
       "settings": {
         "include_margins": true
