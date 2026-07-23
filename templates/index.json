@@ -326,7 +326,8 @@
         "@media only screen and (max-width: 750px) {.product__title {font-family: Georgia; font-size: 24px; line-height: 36px; }}",
         ".product__info-container > *:first-child {display: none !important;}",
         ".product-form__input {display: none !important;}",
-        ".product__tax {display: none !important;}"
+        ".product__tax {display: none !important;}",
+        ".button,.shopify-challenge__button,.customer button {margin: 0 0 24px 0;}"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
