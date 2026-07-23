@@ -343,7 +343,7 @@
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 64,
-        "padding_bottom": 0
+        "padding_bottom": 64
       }
     },
     "17840249473964463a": {
