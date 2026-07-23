@@ -327,7 +327,8 @@
         ".product__info-container > *:first-child {display: none !important;}",
         ".product-form__input {display: none !important;}",
         ".product__tax {display: none !important;}",
-        ".button,.shopify-challenge__button,.customer button {margin: 0 0 24px 0;}"
+        ".button,.shopify-challenge__button,.customer button {margin: 24px 0 24px 0;}",
+        ".price--large {display: none;}"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
