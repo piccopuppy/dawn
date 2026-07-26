@@ -544,6 +544,9 @@
         "accept_sms_checkbox_label": "Text me discount codes and book news",
         "accept_marketing_checkbox_label": "Email me discount codes and book news",
         "post_accept_marketing_checkbox_label": "You are subscribed to receive discount codes and book news"
+      },
+      "field_errors": {
+        "sms_marketing_phone_invalid": "Enter a valid mobile number"
       }
     }
   }
