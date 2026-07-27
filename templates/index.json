@@ -546,18 +546,78 @@
             "row_content": "<p>We have printing partners in the USA, Canada, UK, and Europe. If you are in one of those locations, your order will be printed locally and will not attract any duties or customs fees. For all other countries, printed books are generally not subject to import duty, though some countries may apply local taxes on imported goods.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_YYC4wD": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I personalize a book?",
+            "icon": "none",
+            "row_content": "<p>Click the \"Personalize your book\" button below the book cover, enter your child's name, and choose your format. It takes less than a minute.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CDNCP4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have any discount codes or promotions?",
+            "icon": "none",
+            "row_content": "<p>Yes! Visit our <a href=\"https://www.piccopuppy.com/pages/offers\">Offers</a> page for current deals, or <a href=\"https://www.piccopuppy.com/pages/giveaways\">sign up to our newsletter</a> for exclusive coupons and discounts.​</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LeYwVk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your money back guarantee?",
+            "icon": "none",
+            "row_content": "<p>We promise you'll be happy with our 100% risk-free \"<strong>Love it or we'll make it right</strong>\"<strong>12-month happiness guarantee</strong>. If you're not happy with your order for any reason, contact us and we'll do everything we can to make it right. If you're still not satisfied, let us know within 12 months for a full refund, including return shipping.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UE6kMi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I track my order?",
+            "icon": "none",
+            "row_content": "<p>Yes. Once your order has been printed and dispatched, you'll receive an email with your tracking number.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Nj6n69": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will you add more books for personalization?",
+            "icon": "none",
+            "row_content": "<p>Yes! We'll soon add these titles:</p><p>Unconditional Love Series:</p><ul><li><em>I Will Always Be Proud of You</em></li><li><em>I Will Always Love You</em></li><li><em>I Wish You A Happy Birthday</em></li><li><em>Never Give Up On Your Dreams</em></li><li><em>Share The Kindness In Your Heart</em></li><li><em>Be The Best You Can Be</em></li><li><em>I Love You With All My Heart</em></li><li><em>I Will Always Believe In You</em></li></ul><p>Also coming:</p><ul><li><em>Dear Daughter</em></li><li><em>Dear Son</em></li><li><em>Grandma's Timeless Wisdom</em></li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WLAFcQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are your books available for personalization in different languages?",
+            "icon": "none",
+            "row_content": "<p>French, Spanish, German, and Italian editions are coming soon, in both single-language and English-bilingual formats. <a href=\"https://www.piccopuppy.com/pages/giveaways\">Sign up to our newsletter</a> to be the first to know.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_gF9f8E",
         "collapsible_row_bn9MJ7",
         "collapsible_row_gCyPwd",
-        "collapsible_row_r7dYmT"
+        "collapsible_row_r7dYmT",
+        "collapsible_row_YYC4wD",
+        "collapsible_row_CDNCP4",
+        "collapsible_row_LeYwVk",
+        "collapsible_row_UE6kMi",
+        "collapsible_row_Nj6n69",
+        "collapsible_row_WLAFcQ"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
-        "heading": "Frequently Asked Questions",
+        "heading": "Your Questions Answered",
         "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "none",
