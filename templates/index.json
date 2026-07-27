@@ -634,6 +634,9 @@
         "collapsible_row_PPHiUk",
         "collapsible_row_EakCtp"
       ],
+      "custom_css": [
+        ".collapsible-content-wrapper-narrow {max-width:100%;}"
+      ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
