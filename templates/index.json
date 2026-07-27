@@ -532,18 +532,18 @@
         "collapsible_row_gCyPwd": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "How long until I receive my order?",
+            "icon": "none",
+            "row_content": "<p>Your book is made for you, printed on demand. Add the estimated production time below to the shipping time above for an estimated delivery date:<br/></p><ul><li><strong>USA</strong>: 3-5 working days</li><li><strong>Canada</strong>: 3-5 working days</li><li><strong>UK</strong>: 2 (softcover) - 3 (hardcover) working days</li><li><strong>EU</strong>: 4 (softcover) - 5 (hardcover) working days</li><li><strong>Rest of the World</strong>: 2 (softcover) - 3 (hardcover) working days</li></ul>",
             "page": ""
           }
         },
         "collapsible_row_r7dYmT": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Will I be charged customs or import fees?",
+            "icon": "none",
+            "row_content": "<p>We have printing partners in the USA, Canada, UK, and Europe. If you are in one of those locations, your order will be printed locally and will not attract any duties or customs fees. For all other countries, printed books are generally not subject to import duty, though some countries may apply local taxes on imported goods.</p>",
             "page": ""
           }
         }
