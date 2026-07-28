@@ -449,6 +449,15 @@
             "link": ""
           }
         },
+        "column_Gj6BLJ": {
+          "type": "column",
+          "settings": {
+            "title": "Customer Support, Done Right",
+            "text": "<p><strong>Michael, the author, would be happy to answer your questions. </strong><a href=\"/pages/customer-support\" title=\"Customer Support\">Contact us</a> or email help@piccopuppy.com.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_krrGNi": {
           "type": "column",
           "settings": {
@@ -457,21 +466,12 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_Gj6BLJ": {
-          "type": "column",
-          "settings": {
-            "title": "Customer Support, Done Right",
-            "text": "<p><strong>Michael—the author—personally manages your order,</strong> provides tracking, and will answer any questions you have.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_btNDHp",
-        "column_krrGNi",
-        "column_Gj6BLJ"
+        "column_Gj6BLJ",
+        "column_krrGNi"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -493,17 +493,6 @@
     },
     "17840216276c6da89a": {
       "type": "apps",
-      "blocks": {
-        "faq_page_accordion_help_center_app_embeded_ApQaHn": {
-          "type": "shopify://apps/faq-page-accordion-help-center/blocks/app-embeded/5f16be1e-7529-4a25-bf09-0bc0794f5223",
-          "settings": {
-            "popup_embedded_id": ""
-          }
-        }
-      },
-      "block_order": [
-        "faq_page_accordion_help_center_app_embeded_ApQaHn"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -1014,17 +1003,6 @@
     },
     "17840232302050c15e": {
       "type": "apps",
-      "blocks": {
-        "faq_page_accordion_help_center_app_embeded_EVE8JG": {
-          "type": "shopify://apps/faq-page-accordion-help-center/blocks/app-embeded/5f16be1e-7529-4a25-bf09-0bc0794f5223",
-          "settings": {
-            "popup_embedded_id": "faq-id-6604"
-          }
-        }
-      },
-      "block_order": [
-        "faq_page_accordion_help_center_app_embeded_EVE8JG"
-      ],
       "disabled": true,
       "custom_css": [
         ".sun-editor-editable * p {font-size: 24px; font-weight: 10;}"
