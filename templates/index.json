@@ -1045,7 +1045,7 @@
         "a157a468-b384-4285-a388-88b9f4d22955"
       ],
       "custom_css": [
-        ".jdgm-ugc-media-wrapper {margin-bottom: 50px !important;}"
+        ".jdgm-ugc-media-wrapper {margin-bottom: 100px !important;}"
       ],
       "settings": {
         "include_margins": true
