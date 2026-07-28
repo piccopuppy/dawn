@@ -21,6 +21,11 @@
   {{ 'component-deferred-media.css' | asset_url | stylesheet_tag }}
   {{ 'component-rating.css' | asset_url | stylesheet_tag }}
   {{ 'component-volume-pricing.css' | asset_url | stylesheet_tag }}
+
+  {% if product.media.size > 1 %}
+    {{ 'component-slider.css' | asset_url | stylesheet_tag }}
+  {% endif %}
+
   {% unless section.settings.product.has_only_default_variant %}
     {{ 'component-product-variant-picker.css' | asset_url | stylesheet_tag }}
     {{ 'component-swatch.css' | asset_url | stylesheet_tag }}
