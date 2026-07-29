@@ -626,7 +626,7 @@
       ],
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 1125px;}",
-        ".collapsible-content__heading {font-size: 20px !important; color: #4d4d4d;}",
+        ".collapsible-content__heading {font-size: 20px !important; font-weight: 500; color: #4d4d4d;}",
         ".accordion__title {font-weight: 600; color: #4d4d4d;}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
