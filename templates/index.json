@@ -533,7 +533,7 @@
           "settings": {
             "heading": "Will I be charged customs or import fees?",
             "icon": "none",
-            "row_content": "<p>We have printing partners in the USA, Canada, UK, and Europe. If you are in one of those locations, your order will be printed locally and will not attract any duties or customs fees. For all other countries, printed books are generally not subject to import duty, though some countries may apply local taxes on imported goods.</p>",
+            "row_content": "<p>We have printing partners in the USA, Canada, UK, Europe, and Australia. If you are in one of those locations, your order will be printed locally and will not attract any duties or customs fees. For all other countries, printed books are generally not subject to import duty, though some countries may apply local taxes on imported goods.</p>",
             "page": ""
           }
         },
