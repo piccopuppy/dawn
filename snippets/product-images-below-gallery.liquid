@@ -1,0 +1,61 @@
+{% doc %}
+  Renders the images from the product's custom.images_below_gallery metafield
+  as a stacked single-column grid, styled with the theme's media settings.
+
+  @param {product} product - The product object
+  @param {string} media_size - The section's media size setting ('small', 'medium' or 'large')
+  @param {string} [classes] - Extra classes, e.g. Dawn visibility helpers like 'small-hide'
+
+  @example
+  {% render 'product-images-below-gallery', product: product, media_size: section.settings.media_size, classes: 'small-hide' %}
+{% enddoc %}
+
+{%- liquid
+  assign below_gallery_images = product.metafields.custom.images_below_gallery.value
+
+  if media_size == 'large'
+    assign media_width = 0.65
+  elsif media_size == 'medium'
+    assign media_width = 0.55
+  else
+    assign media_width = 0.45
+  endif
+-%}
+
+{%- if below_gallery_images != blank -%}
+  {%- capture sizes -%}
+    (min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | times: media_width | round }}px, (min-width: 990px) calc({{ media_width | times: 100 }}vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 3rem)
+  {%- endcapture -%}
+  <div class="product-images-below-gallery{% if classes != blank %} {{ classes }}{% endif %}">
+    {%- for below_gallery_image in below_gallery_images -%}
+      {%- assign image = below_gallery_image.preview_image | default: below_gallery_image -%}
+      <div class="product-images-below-gallery__item global-media-settings media--transparent">
+        {{
+          image
+          | image_url: width: 1946
+          | image_tag:
+            loading: 'lazy',
+            sizes: sizes,
+            widths: '246, 493, 600, 713, 823, 990, 1100, 1206, 1346, 1426, 1646, 1946',
+            class: 'product-images-below-gallery__image'
+        }}
+      </div>
+    {%- endfor -%}
+  </div>
+{%- endif -%}
+
+{% stylesheet %}
+  .product-images-below-gallery {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .product-images-below-gallery__image {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: calc(var(--media-radius) - var(--media-border-width));
+  }
+{% endstylesheet %}

@@ -82,6 +82,11 @@
         <div class="grid__item product__media-wrapper">
           {%- unless placeholder -%}
             {% render 'product-media-gallery', product: product, variant_images: variant_images %}
+            {% render 'product-images-below-gallery',
+              product: product,
+              media_size: section.settings.media_size,
+              classes: 'small-hide'
+            %}
           {%- else -%}
             <div class="product__media-item">
               <div
@@ -468,6 +473,13 @@
               {%- endcase -%}
             {%- endfor -%}
           </section>
+          {%- unless placeholder -%}
+            {% render 'product-images-below-gallery',
+              product: product,
+              media_size: section.settings.media_size,
+              classes: 'medium-hide large-up-hide'
+            %}
+          {%- endunless -%}
         </div>
       </div>
       {% render 'product-media-modal', product: product, variant_images: variant_images %}
