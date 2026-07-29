@@ -628,7 +628,7 @@
         ".collapsible-content-wrapper-narrow {max-width: 1125px;}",
         ".collapsible-content__heading {font-size: 20px !important; font-weight: 500; color: #4d4d4d;}",
         ".accordion__title {font-weight: 600; color: #4d4d4d;}",
-        "@media only screen and (max-width: 750px) {.collapsible-content__heading {font-size: 18px !important; font-weight: 500; color: #4d4d4d; margin-bottom: -10px;}}"
+        "@media only screen and (max-width: 750px) {.collapsible-content__heading {font-size: 18px !important; font-weight: 500; color: #4d4d4d; margin-bottom: -5px; }}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
