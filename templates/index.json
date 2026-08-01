@@ -50,8 +50,8 @@
         "@media screen and (max-width: 767px) {h1, .h1 {line-height: 150% !important; } h2 {font-size: 24px; letter-spacing: 2px; font-weight: 300; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Happiness-Cover-No-Text-2000x2000-b_1a88ab9d-406f-49fa-9f68-1d8129f0995a.jpg",
-        "image_2": "shopify://shop_images/Kindness-and-Geneorosity-2000x2000.jpg",
+        "image": "shopify://shop_images/Kindness-and-Geneorosity-2000x2000.jpg",
+        "image_2": "shopify://shop_images/Happiness-Cover-No-Text-2000x2000-b_1a88ab9d-406f-49fa-9f68-1d8129f0995a.jpg",
         "image_overlay_opacity": 50,
         "image_height": "small",
         "image_behavior": "ambient",
