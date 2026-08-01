@@ -51,7 +51,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Happiness-Cover-No-Text-2000x2000-b_1a88ab9d-406f-49fa-9f68-1d8129f0995a.jpg",
-        "image_2": "shopify://shop_images/Proud-Cover-No-Text-2000x2000-b.jpg",
+        "image_2": "shopify://shop_images/Kindness-and-Geneorosity-2000x2000.jpg",
         "image_overlay_opacity": 50,
         "image_height": "small",
         "image_behavior": "ambient",
@@ -625,7 +625,7 @@
         "collapsible_row_EakCtp"
       ],
       "custom_css": [
-        ".collapsible-content-wrapper-narrow {max-width: 1050px;}",
+        ".collapsible-content-wrapper-narrow {max-width: 1090px;}",
         ".collapsible-content__heading {font-size: 20px !important; font-weight: 500; color: #4d4d4d;}",
         ".accordion__title {font-weight: 600; color: #4d4d4d;}",
         "@media only screen and (max-width: 750px) {.collapsible-content__heading {font-size: 18px !important; font-weight: 500; color: #4d4d4d; margin-bottom: -5px; }}"
