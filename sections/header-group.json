@@ -67,7 +67,8 @@
         "#HeaderMenu-shop {text-transform: uppercase;}",
         "#HeaderMenu-offers {text-transform: uppercase;}",
         "#HeaderMenu-info {text-transform: uppercase;}",
-        ".header__menu-item list-menu__item link link--text focus-inset caption-large {text-transform: capitalize;}"
+        ".header__menu-item list-menu__item link link--text focus-inset caption-large {text-transform: capitalize;}",
+        ".list-menu__item {letter-spacing:2px;}"
       ],
       "settings": {
         "logo_position": "middle-center",
