@@ -551,7 +551,7 @@
           "settings": {
             "heading": "Do you have any discount codes or promotions?",
             "icon": "none",
-            "row_content": "<p>Yes! Visit our <a href=\"https://www.piccopuppy.com/pages/offers\">Offers</a> page for current deals, or <a href=\"https://www.piccopuppy.com/pages/giveaways\">sign up to our newsletter</a> for exclusive coupons and discounts.​</p>",
+            "row_content": "<p>Yes! We have three:<br/>1. Buy one, get one 50% off at checkout.<br/>2. Buy 3+, get 20-50% discount at checkout.<br/>3. Scroll down and sign up to our newsletter for special discount.</p>",
             "page": ""
           }
         },
