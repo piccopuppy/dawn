@@ -262,15 +262,22 @@
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
         },
-        "price_hQzfbR": {
-          "type": "price",
-          "settings": {}
-        },
         "custom_liquid_tfd3Q4": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Recommended for ages 0-6</li>\n<li>Preview all 38 pages before ordering</li>\n<li>Printed in USA, Canada, UK, Europe & Australia</li>\n<li>Dispatched in 2-5 working days</li>\n<li>12-month happiness guarantee\n<li>Loved by 250,000+ readers</li>\n</ul>"
           }
+        },
+        "custom_liquid_MRqFVf": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b>From US$19.99 · CA$28.99 · £14.99 · €17,99 · AU$28.99</b>"
+          }
+        },
+        "price_hQzfbR": {
+          "type": "price",
+          "disabled": true,
+          "settings": {}
         },
         "variant_picker_BVAdm3": {
           "type": "variant_picker",
@@ -319,8 +326,9 @@
         "text_gHR7cU",
         "title_zKVTXf",
         "judge_me_reviews_preview_badge_mR3fjX",
-        "price_hQzfbR",
         "custom_liquid_tfd3Q4",
+        "custom_liquid_MRqFVf",
+        "price_hQzfbR",
         "variant_picker_BVAdm3",
         "quantity_selector_CbXYNK",
         "custom_liquid_BDi6T9",
@@ -334,8 +342,7 @@
         ".product__info-container > *:first-child {display: none !important;}",
         ".product-form__input {display: none !important;}",
         ".product__tax {display: none !important;}",
-        ".button,.shopify-challenge__button,.customer button {margin: 24px 0 24px 0;}",
-        ".price--large {display: none;}"
+        ".button,.shopify-challenge__button,.customer button {margin: 24px 0 24px 0;}"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
