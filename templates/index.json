@@ -1051,13 +1051,13 @@
             "arrows_position": "sides",
             "max_width": 1100,
             "corner_styling": "soft",
-            "header_text_color": "#4D4D4D",
+            "header_text_color": "#4d4d4d",
             "text_color": "#000000",
-            "card_color": "#F9F9F9",
-            "stars_color": "#F4D000",
+            "card_color": "#f9f9f9",
+            "stars_color": "#f4d000",
             "arrows_color": "#000000",
             "transition_speed": 5,
-            "header_text": "Customers are saying",
+            "header_text": "Customer Reviews",
             "show_average_rating": true,
             "rating_display": "default"
           }
