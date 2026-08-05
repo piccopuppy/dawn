@@ -269,7 +269,7 @@
         "custom_liquid_tfd3Q4": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Recommended for ages 0-6</li>\n<li>Preview all 38 pages before ordering</li>\n<li>Printed in USA, Canada, UK, Europe & Australia</li>\n<li>Dispatched in 2-5 working days</li>\n<li>12-month happiness guarantee\n<li>Loved by 250,000 readers</li>\n</ul>"
+            "custom_liquid": "<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Recommended for ages 0-6</li>\n<li>Preview all 38 pages before ordering</li>\n<li>Printed in USA, Canada, UK, Europe & Australia</li>\n<li>Dispatched in 2-5 working days</li>\n<li>12-month happiness guarantee\n<li>Loved by 250,000+ readers</li>\n</ul>"
           }
         },
         "variant_picker_BVAdm3": {
@@ -1023,7 +1023,46 @@
     },
     "1784013568d92ea78f": {
       "type": "apps",
-      "disabled": true,
+      "blocks": {
+        "judge_me_reviews_cards_carousel_7PxKPR": {
+          "type": "shopify://apps/judge-me-reviews/blocks/cards_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": true,
+            "reviews_selection": "all",
+            "products": [],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
+            "star_rating": "all",
+            "show_review_media": true,
+            "display_order": "media_first",
+            "no_image_fallback": "review_text_only",
+            "max_reviews": 20,
+            "review_length": "medium",
+            "text_size": "medium",
+            "image_ratio": "1",
+            "reviews_shown": 4,
+            "show_reviewer_name": true,
+            "show_product_name": true,
+            "hide_arrows_mobile": true,
+            "arrows_position": "sides",
+            "max_width": 1100,
+            "corner_styling": "soft",
+            "header_text_color": "#000000",
+            "text_color": "#000000",
+            "card_color": "#F9F9F9",
+            "stars_color": "",
+            "arrows_color": "#000000",
+            "transition_speed": 5,
+            "header_text": "Customers are saying",
+            "show_average_rating": true,
+            "rating_display": "default"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_cards_carousel_7PxKPR"
+      ],
       "custom_css": [
         ".tw-faq-number {display: none;}",
         ".tw-faq-left {display: flex; align-items: center; gap: 0;}",
@@ -1053,6 +1092,7 @@
         "773d23e8-332c-4178-abd5-b5ba3ab9b1d2",
         "a157a468-b384-4285-a388-88b9f4d22955"
       ],
+      "disabled": true,
       "custom_css": [
         ".jdgm-ugc-media-wrapper {margin-bottom: 100px !important;}"
       ],
@@ -1119,6 +1159,18 @@
         "padding_top": 24,
         "padding_bottom": 0
       }
+    },
+    "17859704727892f3bf": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "178597052578fbd85e": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -1144,6 +1196,8 @@
     "1784013568d92ea78f",
     "1696067488ca54295d",
     "17517885421ce3e0da",
-    "rich_text_ABQiqk"
+    "rich_text_ABQiqk",
+    "17859704727892f3bf",
+    "178597052578fbd85e"
   ]
 }
