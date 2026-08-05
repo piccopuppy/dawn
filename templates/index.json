@@ -271,7 +271,7 @@
         "custom_liquid_MRqFVf": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b>From US$19.99 · CA$28.99 · £14.99 · €17,99 · AU$28.99</b>"
+            "custom_liquid": "From US$19.99 · CA$28.99 · £14.99 · €17,99 · AU$28.99"
           }
         },
         "price_hQzfbR": {
