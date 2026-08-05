@@ -329,7 +329,7 @@
         "custom_liquid_8jQeMQ"
       ],
       "custom_css": [
-        "@media only screen and (min-width: 750px) {.product__title {font-family: Georgia; font-size: 44px; line-height: 64px; }}",
+        "@media only screen and (min-width: 750px) {.product__title {font-family: Georgia; font-size: 40px; line-height: 64px; }}",
         "@media only screen and (max-width: 750px) {.product__title {font-family: Georgia; font-size: 24px; line-height: 36px; }}",
         ".product__info-container > *:first-child {display: none !important;}",
         ".product-form__input {display: none !important;}",
