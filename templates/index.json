@@ -269,7 +269,7 @@
         "custom_liquid_tfd3Q4": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Recommended for ages 0-6</li>\n<li>Preview all 38 pages before ordering</li>\n<li>Printed in USA, Canada, UK, Europe & Australia</li>\n<li>Dispatched in 2-5 working days</li>\n</ul>"
+            "custom_liquid": "<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Recommended for ages 0-6</li>\n<li>Preview all 38 pages before ordering</li>\n<li>Printed in USA, Canada, UK, Europe & Australia</li>\n<li>Dispatched in 2-5 working days</li>\n<li>12-month happiness guarantee\n</ul>"
           }
         },
         "variant_picker_BVAdm3": {
