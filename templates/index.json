@@ -636,7 +636,7 @@
       ],
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 640px;}",
-        ".collapsible-content__heading {font-size: 28px !important; font-weight: 500; color: #4d4d4d;}",
+        ".collapsible-content__heading {font-size: 28px !important; font-weight: 500;}",
         ".accordion__title {font-weight: 600; color: #4d4d4d;}",
         "@media only screen and (max-width: 750px) {.collapsible-content__heading {font-size: 18px !important; font-weight: 500; color: #4d4d4d; margin-bottom: -5px; }}"
       ],
