@@ -370,6 +370,9 @@
       "block_order": [
         "judge_me_reviews_review_widget_homepage_b73rLL"
       ],
+      "custom_css": [
+        "h2 {font-size: 24px;}"
+      ],
       "settings": {
         "include_margins": true
       }
@@ -633,7 +636,7 @@
       ],
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 640px;}",
-        ".collapsible-content__heading {font-size: 20px !important; font-weight: 600; color: #4d4d4d;}",
+        ".collapsible-content__heading {font-size: 24px !important; font-weight: 500; color: #4d4d4d;}",
         ".accordion__title {font-weight: 600; color: #4d4d4d;}",
         "@media only screen and (max-width: 750px) {.collapsible-content__heading {font-size: 18px !important; font-weight: 500; color: #4d4d4d; margin-bottom: -5px; }}"
       ],
@@ -1048,10 +1051,10 @@
             "arrows_position": "sides",
             "max_width": 1100,
             "corner_styling": "soft",
-            "header_text_color": "#000000",
+            "header_text_color": "#4D4D4D",
             "text_color": "#000000",
             "card_color": "#F9F9F9",
-            "stars_color": "",
+            "stars_color": "#F4D000",
             "arrows_color": "#000000",
             "transition_speed": 5,
             "header_text": "Customers are saying",
@@ -1067,7 +1070,8 @@
         ".tw-faq-number {display: none;}",
         ".tw-faq-left {display: flex; align-items: center; gap: 0;}",
         ".tw-faq-item {border-bottom: 1px solid #eee; margin: 1rem 0;}",
-        ".tw-faq-question {font-size: 16px; font-weight: 600; color: #121212; transition: color 0.3s ease;}"
+        ".tw-faq-question {font-size: 16px; font-weight: 600; color: #121212; transition: color 0.3s ease;}",
+        "h2 {font-size: 24px;}"
       ],
       "settings": {
         "include_margins": true
