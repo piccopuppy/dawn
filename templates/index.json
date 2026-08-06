@@ -101,7 +101,7 @@
       ],
       "custom_css": [
         "@media only screen and (min-width: 750px) {h2 {font-size: 20px; line-height: 40px; letter-spacing: 3px; }}",
-        "@media only screen and (max-width: 750px) {h2 {font-size: 18px; line-height: 36px; letter-spacing: 2px; }}"
+        "@media only screen and (max-width: 750px) {h2 {font-size: 16px; line-height: 32px; letter-spacing: 2px; }}"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -379,7 +379,8 @@
         "judge_me_reviews_review_widget_homepage_b73rLL"
       ],
       "custom_css": [
-        "h2 {font-size: 28px;}"
+        "h2 {font-size: 28px;}",
+        "@media only screen and (max-width: 750px) {h2 {font-size: 20px; }}"
       ],
       "settings": {
         "include_margins": true
@@ -646,7 +647,7 @@
         ".collapsible-content-wrapper-narrow {max-width: 640px;}",
         ".collapsible-content__heading {font-size: 28px !important; font-weight: 500;}",
         ".accordion__title {font-weight: 600; color: #4d4d4d;}",
-        "@media only screen and (max-width: 750px) {.collapsible-content__heading {font-size: 18px !important; font-weight: 500; color: #4d4d4d; margin-bottom: -5px; }}"
+        "@media only screen and (max-width: 750px) {.collapsible-content__heading {font-size: 20px !important; font-weight: 500; margin-bottom: -5px; }}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -1079,7 +1080,8 @@
         ".tw-faq-left {display: flex; align-items: center; gap: 0;}",
         ".tw-faq-item {border-bottom: 1px solid #eee; margin: 1rem 0;}",
         ".tw-faq-question {font-size: 16px; font-weight: 600; color: #121212; transition: color 0.3s ease;}",
-        "h2 {font-size: 28px;}"
+        "h2 {font-size: 28px;}",
+        "@media only screen and (max-width: 750px) {h2 {font-size: 20px; }}"
       ],
       "settings": {
         "include_margins": true
@@ -1124,7 +1126,8 @@
         "judge_me_reviews_ugc_media_grid_bzdzi4"
       ],
       "custom_css": [
-        "h2 {font-size: 28px;}"
+        "h2 {font-size: 28px;}",
+        "@media only screen and (max-width: 750px) {h2 {font-size: 20px; }}"
       ],
       "settings": {
         "include_margins": true
