@@ -47,7 +47,7 @@
       ],
       "custom_css": [
         "@media only screen and (min-width: 750px) {h1, .h1 {line-height: 200% !important; } h2 {font-size: 24px; line-height: 48px; letter-spacing: 3px; } .banner--desktop-transparent .banner__box {margin: 100px 0 !important; }}",
-        "@media screen and (max-width: 767px) {h1, .h1 {line-height: 150% !important; } h2 {font-size: 16px; line-height: 32px; letter-spacing: 1px; }}"
+        "@media screen and (max-width: 767px) {h1, .h1 {line-height: 150% !important; } h2 {font-size: 16px; line-height: 32px; letter-spacing: 0px; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/Kindness-and-Geneorosity-2000x2000.jpg",
