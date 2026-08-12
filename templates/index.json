@@ -620,6 +620,24 @@
             "page": ""
           }
         },
+        "collapsible_row_PPHiUk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Picco Puppy?",
+            "icon": "none",
+            "row_content": "<p>Picco Puppy is an indie children's picture book publisher founded by award-winning author Michael Wong. Since 2020, our books have delighted over 450,000 readers worldwide. Based in Sydney, Australia, Picco Puppy partners with printers in the US, UK, Canada, Australia, and Europe. Your book prints close to home, which means faster and more affordable shipping and support for local businesses along the way.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_EakCtp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I have a question. How do I contact Picco Puppy?",
+            "icon": "none",
+            "row_content": "<p>Visit the Support pge for answers to all your questions.</p><p>Michael, the author, is always happy to assist you. Reach us via the Help chat box in the bottom-right corner, our <a href=\"https://www.piccopuppy.com/pages/help\">Contact Us</a> form, or email help@piccopuppy.com.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_Nj6n69": {
           "type": "collapsible_row",
           "settings": {
@@ -637,24 +655,6 @@
             "row_content": "<p>French, Spanish, German, and Italian editions are coming soon, in both single-language and English-bilingual formats. <a href=\"https://www.piccopuppy.com/pages/giveaways\">Sign up to our newsletter</a> to be the first to know.</p>",
             "page": ""
           }
-        },
-        "collapsible_row_PPHiUk": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is Picco Puppy?",
-            "icon": "none",
-            "row_content": "<p>Picco Puppy is an indie children's picture book publisher founded by award-winning author Michael Wong. Since 2020, our books have delighted over 450,000 readers worldwide. Based in Sydney, Australia, Picco Puppy partners with printers in the US, UK, Canada, Australia, and Europe. Your book prints close to home, which means faster and more affordable shipping and support for local businesses along the way.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_EakCtp": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How do I contact Picco Puppy?",
-            "icon": "none",
-            "row_content": "<p>Michael, the author, is always happy to assist you. Reach us via the Help chat box in the bottom-right corner, our <a href=\"https://www.piccopuppy.com/pages/help\">Contact Us</a> form, or email help@piccopuppy.com.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -669,10 +669,10 @@
         "collapsible_row_YYC4wD",
         "collapsible_row_CDNCP4",
         "collapsible_row_UE6kMi",
-        "collapsible_row_Nj6n69",
-        "collapsible_row_WLAFcQ",
         "collapsible_row_PPHiUk",
-        "collapsible_row_EakCtp"
+        "collapsible_row_EakCtp",
+        "collapsible_row_Nj6n69",
+        "collapsible_row_WLAFcQ"
       ],
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 800px;}",
