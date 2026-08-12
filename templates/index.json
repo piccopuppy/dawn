@@ -634,7 +634,7 @@
           "settings": {
             "heading": "I have a question. How do I contact Picco Puppy?",
             "icon": "none",
-            "row_content": "<p>Visit the <a href=\"/pages/support\" title=\"Shipping/Support\">Support</a> pge for answers to all your questions. Michael, the author, is always happy to assist you. Reach us via the Help chat box in the bottom-right corner, our <a href=\"https://www.piccopuppy.com/pages/help\">Contact Us</a> form, or email help@piccopuppy.com.</p>",
+            "row_content": "<p>Visit the <a href=\"/pages/support\" title=\"Shipping/Support\">Support</a> page for more answers to your questions. Michael, the author, is always happy to assist you. Reach us via the Help chat box in the bottom-right corner, the contact us form at the bottom of the Support page, or email at <a href=\"mailto:help@piccopuppy.com\">help@piccopuppy.com</a>.</p>",
             "page": ""
           }
         },
