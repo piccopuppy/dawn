@@ -557,6 +557,42 @@
             "page": ""
           }
         },
+        "collapsible_row_LeYwVk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your money back guarantee?",
+            "icon": "none",
+            "row_content": "<p>We promise you'll be happy with our 100% risk-free \"<strong>Love it or we'll make it right</strong>\"<strong>12-month happiness guarantee</strong>. If you're not happy with your order for any reason, contact us and we'll do everything we can to make it right. If you're still not satisfied, let us know within 12 months for a full refund, including return shipping.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BfR8m6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do your books feel as good as they look?",
+            "icon": "none",
+            "row_content": "<p>Absolutely! Every book is professionally printed to a high standard on quality paper, with vibrant colours and a finish that feels as special as it looks. Check out the reviews on the website.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6QrqTw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I ship to a PO Box?",
+            "icon": "none",
+            "row_content": "<p>Yes, we can ship to PO Boxes in the USA, UK, Canada and Australia. For express shipping or orders to all other countries, please use a residential or business address, as courier services cannot deliver to PO Boxes.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_4GTTCw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I ship to an APO/FPO address?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, we can ship to APO/FPO addresses, but we recommend using a residential address where possible. APO/FPO orders are fulfilled by our US printing partner and shipped through the military postal system, which is untracked and takes longer.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_YYC4wD": {
           "type": "collapsible_row",
           "settings": {
@@ -571,16 +607,7 @@
           "settings": {
             "heading": "Do you offer discounts?",
             "icon": "none",
-            "row_content": "<p>Yes! We have three:<br/>1. Buy one, get one 50% off at checkout.<br/>2. Buy 3+, get 20-50% discount at checkout.<br/>3. Scroll down and sign up to our newsletter for special discount.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_LeYwVk": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is your money back guarantee?",
-            "icon": "none",
-            "row_content": "<p>We promise you'll be happy with our 100% risk-free \"<strong>Love it or we'll make it right</strong>\"<strong>12-month happiness guarantee</strong>. If you're not happy with your order for any reason, contact us and we'll do everything we can to make it right. If you're still not satisfied, let us know within 12 months for a full refund, including return shipping.</p>",
+            "row_content": "<p>Yes, we have three promotions:</p><ol><li>Buy one, get one 50% off at checkout.</li><li>Buy 3+, get 20-50% discount at checkout.</li><li>Scroll down and sign up to our newsletter for an additional 10% discount.</li></ol>",
             "page": ""
           }
         },
@@ -635,9 +662,12 @@
         "collapsible_row_bn9MJ7",
         "collapsible_row_gCyPwd",
         "collapsible_row_r7dYmT",
+        "collapsible_row_LeYwVk",
+        "collapsible_row_BfR8m6",
+        "collapsible_row_6QrqTw",
+        "collapsible_row_4GTTCw",
         "collapsible_row_YYC4wD",
         "collapsible_row_CDNCP4",
-        "collapsible_row_LeYwVk",
         "collapsible_row_UE6kMi",
         "collapsible_row_Nj6n69",
         "collapsible_row_WLAFcQ",
