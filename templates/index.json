@@ -569,7 +569,7 @@
         "collapsible_row_CDNCP4": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you have any discount codes or promotions?",
+            "heading": "Do you offer discounts?",
             "icon": "none",
             "row_content": "<p>Yes! We have three:<br/>1. Buy one, get one 50% off at checkout.<br/>2. Buy 3+, get 20-50% discount at checkout.<br/>3. Scroll down and sign up to our newsletter for special discount.</p>",
             "page": ""
