@@ -607,7 +607,7 @@
           "settings": {
             "heading": "Do you offer discounts?",
             "icon": "none",
-            "row_content": "<p>Yes, we have three promotions:</p><ol><li>Buy one, get one 50% off at checkout.</li><li>Buy 3+, get 20-50% discount at checkout.</li><li>Scroll down and sign up to our newsletter for an additional 10% discount.</li></ol>",
+            "row_content": "<p>Yes, we have three promotions:</p><ol><li>Buy one, get one 50% off at checkout.</li><li>Buy 3+, get 20-50% discount at checkout.</li><li>Scroll down and sign up to our newsletter for 10% discount.</li></ol>",
             "page": ""
           }
         },
