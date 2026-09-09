@@ -616,7 +616,7 @@
           "settings": {
             "heading": "Can I track my order?",
             "icon": "none",
-            "row_content": "<p>Yes. Once your order has been printed and dispatched, you'll receive an email with your tracking number.</p>",
+            "row_content": "<p>Yes. Once your order has been printed and dispatched, you'll receive your tracking number via email. If you don't see the email, check your spam folder. If the email isn't in your spam folder, contact us and we'll send it to you again.</p>",
             "page": ""
           }
         },
