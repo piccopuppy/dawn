@@ -620,6 +620,15 @@
             "page": ""
           }
         },
+        "collapsible_row_XtwARx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where is my order?",
+            "icon": "none",
+            "row_content": "<p>For the latest updates on your order, visit our <a href=\"https://www.piccopuppy.com/apps/tracking\">tracking page</a>. You can look it up using the tracking number from your shipping email, or your order number and email address.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_PPHiUk": {
           "type": "collapsible_row",
           "settings": {
@@ -669,6 +678,7 @@
         "collapsible_row_YYC4wD",
         "collapsible_row_CDNCP4",
         "collapsible_row_UE6kMi",
+        "collapsible_row_XtwARx",
         "collapsible_row_PPHiUk",
         "collapsible_row_EakCtp",
         "collapsible_row_Nj6n69",
