@@ -311,7 +311,7 @@
           "type": "custom_liquid",
           "name": "Personalized Button",
           "settings": {
-            "custom_liquid": "{% assign snip_product = nil %}\n\n{% if closest.product.metafields.custom.personalized_product.value != blank %}\n  {% assign snip_product = closest.product.metafields.custom.personalized_product.value %}\n{% elsif closest.product.metafields.pico_pdf.config.value != blank %}\n  {% assign snip_product = closest.product %}\n{% endif %}\n\n{% if snip_product %}\n  <button\n    type=\"button\"\n    class=\"picco-button button button--full-width button--primary\"\n    data-product-id=\"{{ snip_product.id }}\">\n    Standard edition (No name)\n  </button>\n{% endif %}"
+            "custom_liquid": "{% assign snip_product = nil %}\n\n{% if closest.product.metafields.custom.personalized_product.value != blank %}\n  {% assign snip_product = closest.product.metafields.custom.personalized_product.value %}\n{% elsif closest.product.metafields.pico_pdf.config.value != blank %}\n  {% assign snip_product = closest.product %}\n{% endif %}\n\n{% if snip_product %}\n  <button\n    type=\"button\"\n    class=\"picco-button button button--full-width button--primary\"\n    data-product-id=\"{{ snip_product.id }}\">\n    Select standard edition (no name)\n  </button>\n{% endif %}"
           }
         },
         "buy_buttons_Xed9hP": {
