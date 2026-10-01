@@ -438,6 +438,13 @@
   justify-content: flex-start;
 }
 
+/* Larger social icons in the footer (Dawn default is 2.2rem) */
+.footer__list-social .svg-wrapper,
+.footer__list-social .list-social__item .icon {
+  height: 3rem;
+  width: 3rem;
+}
+
 .footer-block__details-content .placeholder-svg {
   max-width: 20rem;
 }
