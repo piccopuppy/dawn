@@ -68,7 +68,7 @@
         "#HeaderMenu-offers {text-transform: capitalize;}",
         "#HeaderMenu-info {text-transform: capitalize;}",
         ".header__menu-item list-menu__item link link--text focus-inset caption-large {text-transform: capitalize;}",
-        ".list-menu__item {font-size: 13px; letter-spacing: 1px; text-transform: capitalize;}"
+        ".list-menu__item {font-size: 14px; letter-spacing: 1px; text-transform: capitalize;}"
       ],
       "settings": {
         "logo_position": "middle-center",
