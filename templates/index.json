@@ -695,6 +695,7 @@
         ".collapsible-content-wrapper-narrow {max-width: 800px;}",
         ".collapsible-content__heading {font-size: 28px !important; font-weight: 500;}",
         ".accordion__title {font-weight: 600; color: #4d4d4d;}",
+        ".rte ol {list-style: circle; margin-left: 40px; margin-block: 0px;}",
         "@media only screen and (max-width: 750px) {.collapsible-content__heading {font-size: 20px !important; font-weight: 500; margin-bottom: -5px; }}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
