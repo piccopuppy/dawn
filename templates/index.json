@@ -633,7 +633,7 @@
           "settings": {
             "heading": "Can I track my order?",
             "icon": "none",
-            "row_content": "<p>Yes. Once your order has been printed and dispatched, you'll receive your tracking number via email. Visit our <a href=\"https://www.piccopuppy.com/apps/tracking\">tracking page</a> and look it up using the tracking number from your shipping email, or your order number and email address.</p><p>If you don't see the shipping email, check your spam folder. If it's not there either, contact us and we'll send it again.</p>",
+            "row_content": "<p>Yes. Once your order has been printed and dispatched, you'll receive your tracking number via email. Visit our <a href=\"https://www.piccopuppy.com/apps/tracking\" target=\"_blank\">tracking page</a> and look it up using the tracking number from your shipping email, or your order number and email address.</p><p>If you don't see the shipping email, check your spam folder. If it's not there either, contact us and we'll send it again.</p>",
             "page": ""
           }
         },
