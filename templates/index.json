@@ -633,7 +633,7 @@
           "settings": {
             "heading": "Do you offer discounts?",
             "icon": "none",
-            "row_content": "<p>Yes, we have two promotions (automatically added at checkout):<br/>1. First 25 customers get 50% off</p>",
+            "row_content": "<p>Yes, we have two promotions (automatically added at checkout):<br/>1. First 25 customers get 50% off<br/>2. Buy 3+, get 25% off</p>",
             "page": ""
           }
         },
