@@ -619,15 +619,6 @@
             "page": ""
           }
         },
-        "collapsible_row_CDNCP4": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Do you offer discounts?",
-            "icon": "none",
-            "row_content": "<p>Yes, we have two promotions (automatically added at checkout):</p><ol><li>First 25 customers get 50% off</li><li>Buy 3+, get 25% off</li></ol><p></p>",
-            "page": ""
-          }
-        },
         "collapsible_row_xEi68P": {
           "type": "collapsible_row",
           "settings": {
@@ -693,7 +684,6 @@
         "collapsible_row_6QrqTw",
         "collapsible_row_4GTTCw",
         "collapsible_row_YYC4wD",
-        "collapsible_row_CDNCP4",
         "collapsible_row_xEi68P",
         "collapsible_row_UE6kMi",
         "collapsible_row_PPHiUk",
