@@ -15,7 +15,7 @@
         "d7b06c99-1755-4055-8fd7-2df486d5e367": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Personalize I Wish You Happiness with any name.</strong> Preview your book before ordering. First 25 customers get 50% off.",
+            "heading": "<strong>Personalize I Wish You Happiness with any name.</strong> First 25 customers get 50% off.",
             "heading_size": "h2"
           }
         },
@@ -46,7 +46,7 @@
         "text_xXXDTa"
       ],
       "custom_css": [
-        "@media only screen and (min-width: 750px) {h1, .h1 {line-height: 200% !important; } h2 {font-size: 34px; line-height: 56px; letter-spacing: 1px; } .banner--desktop-transparent .banner__box {margin: 100px 0 !important; }}",
+        "@media only screen and (min-width: 750px) {h1, .h1 {line-height: 200% !important; } h2 {font-size: 34px; line-height: 56px; letter-spacing: 2px; } .banner--desktop-transparent .banner__box {margin: 100px 0 !important; }}",
         "@media screen and (max-width: 767px) {h1, .h1 {line-height: 150% !important; } h2 {font-size: 16px; line-height: 32px; letter-spacing: 0px; }}"
       ],
       "settings": {
