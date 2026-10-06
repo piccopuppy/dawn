@@ -632,8 +632,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Do you offer discounts?",
-            "icon": "check_mark",
-            "row_content": "<p>Yes, we have two promotions (automatically added at checkout):</p>",
+            "icon": "none",
+            "row_content": "<p>Yes, we have two promotions (automatically added at checkout):</p><ol><li>First 25 customers get 50% off</li></ol>",
             "page": ""
           }
         },
