@@ -669,7 +669,7 @@
           "settings": {
             "heading": "Are your books available for personalization in different languages?",
             "icon": "none",
-            "row_content": "<p>French, Spanish, German, and Italian editions are coming in 2027, in both single-language and English-bilingual formats. <a href=\"https://www.piccopuppy.com/pages/giveaways\">Sign up to our newsletter</a> to be the first to know.</p>",
+            "row_content": "<p>French, Spanish, German, and Italian editions are coming in 2027, in both single-language and English-bilingual formats. <a href=\"https://www.piccopuppy.com/pages/giveaways\" target=\"_blank\">Sign up to our newsletter</a> to be the first to know.</p>",
             "page": ""
           }
         }
