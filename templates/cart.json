@@ -12,6 +12,7 @@
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
+        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -32,7 +33,11 @@
         "subtotal",
         "buttons"
       ],
+      "custom_css": [
+        ".tax-note {display: none;}"
+      ],
       "settings": {
+        "color_scheme": "",
         "padding_top": 20,
         "padding_bottom": 40
       }
