@@ -34,7 +34,8 @@
         "buttons"
       ],
       "custom_css": [
-        ".tax-note {display: none;}"
+        ".tax-note {display: none;}",
+        ".totals {margin-bottom: 20px;}"
       ],
       "settings": {
         "color_scheme": "",
