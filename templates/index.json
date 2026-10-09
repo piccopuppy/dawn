@@ -606,7 +606,7 @@
           "settings": {
             "heading": "Can I ship to an APO/FPO address?",
             "icon": "none",
-            "row_content": "<p>Yes, we can ship to APO/FPO addresses, but we recommend using a residential address where possible. APO/FPO orders are fulfilled by our US printing partner and shipped through the military postal system, which is untracked and takes longer.</p>",
+            "row_content": "<p>We're terribly sorry, but our US printer doesn't ship to military addresses.</p>",
             "page": ""
           }
         },
