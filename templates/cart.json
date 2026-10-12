@@ -35,7 +35,8 @@
       ],
       "custom_css": [
         ".tax-note {display: none;}",
-        ".totals {margin-bottom: 20px;}"
+        ".totals {margin-bottom: 30px;}",
+        ".dynamic-checkout__content {display: none;}"
       ],
       "settings": {
         "color_scheme": "",
