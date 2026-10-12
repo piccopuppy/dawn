@@ -13,7 +13,7 @@
       "type": "custom-liquid",
       "name": "Cart only CSS",
       "settings": {
-        "custom_liquid": "<style>\n.header__inline-menu {\n    display: none;\n}\n.header__search {\ndisplay: none;\n}\n</style>",
+        "custom_liquid": "<style>\n.header__inline-menu {\n    display: none;\n}\n.header__search {\ndisplay: none !important;\n}\n</style>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
