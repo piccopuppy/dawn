@@ -16,6 +16,12 @@
           "type": "title",
           "settings": {}
         },
+        "custom_liquid_FEmPyq": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Personalize the cover and story with the child's name</li>\n<li>Preview all 37 pages before ordering</li>\n<li>Love it or we'll make it right (12-month guarantee)</li>\n<li>Printed in the USA, UK, the Netherlands and Australia</li>\n<li>Dispatched in 2-5 business days</li>\n<li>Shipped to your door in 121 countries</li>\n<li>Recommended for ages 3-7</li>\n<li>First 25 customers get 50% off</li>\n</ul>"
+          }
+        },
         "c2407694-7f87-4ea6-93e4-356d8155c55f": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
@@ -131,6 +137,7 @@
       },
       "block_order": [
         "title",
+        "custom_liquid_FEmPyq",
         "c2407694-7f87-4ea6-93e4-356d8155c55f",
         "price",
         "variant_picker",
