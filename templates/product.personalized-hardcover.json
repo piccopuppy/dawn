@@ -16,22 +16,27 @@
           "type": "title",
           "settings": {}
         },
+        "custom_liquid_U4C4ik": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Personalize the cover and story with the child's name</li>\n<li>Preview all 38 pages before ordering</li>\n<li>300,000+ copies sold, with 2,000+ 5-star Amazon ratings</li>\n<li>Love it or we'll make it right (12-month guarantee)</li>\n<li>Printed in the USA, UK, the Netherlands and Australia</li>\n<li>Dispatched in 2-5 business days</li>\n<li>Shipped to your door in 121 countries</li>\n<li>Recommended for ages 0-6</li>\n<li>First 25 customers get 50% off</li>\n</ul>"
+          }
+        },
+        "custom_liquid_dYnFy8": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "US$24.99 · CA$34.99 · £14.99 · €17.99 · AU$29.99 · NZ$36.99"
+          }
+        },
         "c2407694-7f87-4ea6-93e4-356d8155c55f": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
           "settings": {}
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {}
-        },
-        "01b8b087-4f4a-4ed9-9c18-01784cc1df17": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "1-Year Happiness Guarantee",
-            "icon": "check_mark",
-            "content": "<p>Purchase books on this website 100% risk-free with our \"1-Year Happiness Guarantee.\"</p><p>If you're unhappy with a purchase and would like a refund, contact us within 12 months. We’ll even pay for shipping.</p>",
-            "page": ""
-          }
         },
         "efa90221-b838-4d0c-8a3d-40c4711a163d": {
           "type": "collapsible_tab",
@@ -43,10 +48,21 @@
             "page": ""
           }
         },
+        "01b8b087-4f4a-4ed9-9c18-01784cc1df17": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "1-Year Happiness Guarantee",
+            "icon": "check_mark",
+            "content": "<p>Purchase books on this website 100% risk-free with our \"1-Year Happiness Guarantee.\"</p><p>If you're unhappy with a purchase and would like a refund, contact us within 12 months. We’ll even pay for shipping.</p>",
+            "page": ""
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
         "quantity_selector": {
@@ -66,6 +82,7 @@
         },
         "bbd97ce3-1c21-4fcb-b6a0-9f23a781d279": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "About the Author",
             "icon": "check_mark",
@@ -76,6 +93,8 @@
       },
       "block_order": [
         "title",
+        "custom_liquid_U4C4ik",
+        "custom_liquid_dYnFy8",
         "c2407694-7f87-4ea6-93e4-356d8155c55f",
         "price",
         "efa90221-b838-4d0c-8a3d-40c4711a163d",
@@ -87,12 +106,15 @@
         "bbd97ce3-1c21-4fcb-b6a0-9f23a781d279"
       ],
       "custom_css": [
-        ".product__tax {display: none;}",
-        "@media only screen and (min-width: 767px) {h1 {font-size: 30px; line-height: 45px !important; }}",
-        "@media only screen and (max-width: 766px) {h1 {font-size: 24px; line-height: 36px !important; }}"
+        "@media only screen and (min-width: 750px) {.product__title {font-family: Georgia; font-size: 40px; line-height: 64px; }}",
+        "@media only screen and (max-width: 750px) {.product__title {font-family: Georgia; font-size: 24px; line-height: 36px; }}",
+        ".product-form__input {display: none !important;}",
+        ".product__tax {display: none !important;}",
+        ".button,.shopify-challenge__button,.customer button {margin: 24px 0 24px 0;}"
       ],
       "settings": {
         "enable_sticky_info": true,
+        "color_scheme": "",
         "media_size": "large",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -111,7 +133,12 @@
       "blocks": {
         "9b377639-fb24-4d37-b78d-21299a98f7af": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         },
         "c740b7be-c592-4562-abb0-78afd0adf300": {
           "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
@@ -145,11 +172,22 @@
         "padding_top": 64,
         "padding_bottom": 52
       }
+    },
+    "custom_liquid_GtEiye": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "1696058692e802f9c5",
-    "related-products"
+    "related-products",
+    "custom_liquid_GtEiye"
   ]
 }
