@@ -60,6 +60,7 @@
         "005c4736-5eda-453d-b01a-706ac2e5f5c9",
         "33782240-89de-469d-bb77-a5ce969a5169"
       ],
+      "disabled": true,
       "custom_css": [
         ".footer__copyright {margin: 2em auto !important;}",
         ".footer-block__details-content {font-size: 14px;}",
