@@ -62,7 +62,6 @@
     },
     "header": {
       "type": "header",
-      "disabled": true,
       "custom_css": [
         ".header__heading-link .h2 {font-family: georgia; font-weight: bold; font-size: 42px; color: #000000; letter-spacing: 5px;}",
         "#HeaderMenu-shop {text-transform: capitalize;}",
