@@ -63,10 +63,6 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".header__inline-menu {display: none;}",
-        ".header__search {display: none;}",
-        ".header__heading-link {pointer-events: none; cursor: default;}",
-        ".header__icon:not(.header__icon--summary),.header__icon span {display: none;}",
         ".header__heading-link .h2 {font-family: georgia; font-weight: bold; font-size: 42px; color: #000000; letter-spacing: 5px;}",
         ".header__menu-item list-menu__item link link--text focus-inset caption-large {text-transform: capitalize;}",
         ".list-menu__item {font-size: 16px; letter-spacing: 1px; text-transform: capitalize;}"
