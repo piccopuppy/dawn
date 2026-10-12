@@ -124,6 +124,12 @@
                   {{ content_for_additional_checkout_buttons }}
                 </div>
               {%- endif -%}
+
+              <div class="center">
+                <a href="{{ routes.root_url }}" class="underlined-link">
+                  {{- 'general.continue_shopping' | t -}}
+                </a>
+              </div>
           {%- endcase -%}
         {% endfor %}
 
