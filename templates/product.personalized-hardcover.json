@@ -37,37 +37,6 @@
           "disabled": true,
           "settings": {}
         },
-        "efa90221-b838-4d0c-8a3d-40c4711a163d": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Save Up To 40%",
-            "icon": "check_mark",
-            "content": "<p>Get 2 hardcovers for $29, 3 for $39, 4 for $49, or save 40% for 8+.</p><p>Discounts are automatically applied as you add books to the cart. No coupon required.</p>",
-            "page": ""
-          }
-        },
-        "01b8b087-4f4a-4ed9-9c18-01784cc1df17": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "1-Year Happiness Guarantee",
-            "icon": "check_mark",
-            "content": "<p>Purchase books on this website 100% risk-free with our \"1-Year Happiness Guarantee.\"</p><p>If you're unhappy with a purchase and would like a refund, contact us within 12 months. We’ll even pay for shipping.</p>",
-            "page": ""
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -78,16 +47,6 @@
         "description": {
           "type": "description",
           "settings": {}
-        },
-        "bbd97ce3-1c21-4fcb-b6a0-9f23a781d279": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "About the Author",
-            "icon": "check_mark",
-            "content": "<p><a href=\"/pages/about\" title=\"Our Story\">Michael Wong</a> is the award-winning author of beautiful, empowering picture books for kids 0 to 8+. Michael lives with his wife and two boys in Sydney, Australia.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -96,13 +55,8 @@
         "custom_liquid_dYnFy8",
         "c2407694-7f87-4ea6-93e4-356d8155c55f",
         "price",
-        "efa90221-b838-4d0c-8a3d-40c4711a163d",
-        "01b8b087-4f4a-4ed9-9c18-01784cc1df17",
-        "variant_picker",
-        "quantity_selector",
         "buy_buttons",
-        "description",
-        "bbd97ce3-1c21-4fcb-b6a0-9f23a781d279"
+        "description"
       ],
       "custom_css": [
         "@media only screen and (min-width: 750px) {.product__title {font-family: Georgia; font-size: 40px; line-height: 64px; }}",
