@@ -9,6 +9,16 @@
  */
 {
   "sections": {
+    "custom_liquid_6z97Wz": {
+      "type": "custom-liquid",
+      "name": "Cart only CSS",
+      "settings": {
+        "custom_liquid": "<style>\n.header__inline-menu {\n    display: none;\n}\n.header__search {\ndisplay: none;\n}\n</style>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
@@ -46,6 +56,7 @@
     }
   },
   "order": [
+    "custom_liquid_6z97Wz",
     "cart-items",
     "cart-footer"
   ]
