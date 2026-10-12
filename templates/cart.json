@@ -46,7 +46,8 @@
       "custom_css": [
         ".tax-note {display: none;}",
         ".totals {margin-bottom: 30px;}",
-        ".dynamic-checkout__content {display: none;}"
+        ".dynamic-checkout__content {display: none;}",
+        ".cart__ctas {margin-bottom: 25px;}"
       ],
       "settings": {
         "color_scheme": "",
