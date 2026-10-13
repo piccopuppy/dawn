@@ -29,7 +29,14 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {}
+        },
+        "custom_liquid_JQWxR9": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "US$24.99 · CA$34.99 · £14.99 · €17.99 · AU$29.99 · NZ$36.99"
+          }
         },
         "picco_puppy_pdf_personalizer_pico_puppy_panel_REdzFN": {
           "type": "shopify://apps/picco-puppy-pdf-personalizer/blocks/pico-puppy-panel/019e872d-a4e9-79d3-93bf-fe816507d36e",
@@ -67,6 +74,7 @@
         "custom_liquid_FEmPyq",
         "c2407694-7f87-4ea6-93e4-356d8155c55f",
         "price",
+        "custom_liquid_JQWxR9",
         "picco_puppy_pdf_personalizer_pico_puppy_panel_REdzFN",
         "buy_buttons",
         "custom_liquid_dn7Ezi",
