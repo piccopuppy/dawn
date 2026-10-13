@@ -24,7 +24,7 @@
       "custom_css": [
         "h1 {font-size: 24px !important;}",
         ".cart-item:has([data-pp-cart-title-base]) .cart-item__details dl {display: none;}",
-        "@media only screen and (max-width: 750px) {.section-template--25289772728513__cart-items-padding {padding-top: 0; }}"
+        "@media only screen and (max-width: 750px) {.section-template--25289772728513__cart-items-padding {padding-top: 0; }h1 {font-size: 18px !important;}}"
       ],
       "settings": {
         "color_scheme": "",
