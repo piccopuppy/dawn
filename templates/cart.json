@@ -64,7 +64,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div style=\"text-align:center; padding:24px 0;\">\n  <img\n    src=\"https://cdn.shopify.com/s/files/1/0267/7286/5217/files/Love-It-Guarantee-Seal-650x650.jpg?v=1792015312\"\n    alt=\"Love it or we'll make it right. 12-month guarantee.\"\n    width=\"250\"\n    loading=\"lazy\"\n    style=\"width:250px; max-width:60%; height:auto; display:inline-block;\">\n</div>",
+        "custom_liquid": "<div style=\"text-align:center; padding:24px 0;\">\n  <img\n    src=\"https://cdn.shopify.com/s/files/1/0267/7286/5217/files/Love-It-Guarantee-Seal-650x650.jpg?v=1792015312\"\n    alt=\"Love it or we'll make it right. 12-month guarantee.\"\n    width=\"225\"\n    loading=\"lazy\"\n    style=\"width:225px; max-width:60%; height:auto; display:inline-block;\">\n</div>",
         "color_scheme": "",
         "padding_top": 12,
         "padding_bottom": 12
