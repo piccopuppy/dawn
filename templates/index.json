@@ -604,6 +604,7 @@
         },
         "collapsible_row_LeYwVk": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "What is your money back guarantee?",
             "icon": "none",
