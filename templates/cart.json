@@ -49,10 +49,7 @@
         "buttons"
       ],
       "custom_css": [
-        ".tax-note {display: none;}",
-        ".totals {margin-bottom: 30px;}",
-        ".dynamic-checkout__content {display: none;}",
-        ".cart__ctas {margin-bottom: 30px;}"
+        ".totals {margin-bottom: 30px;}"
       ],
       "settings": {
         "color_scheme": "",
