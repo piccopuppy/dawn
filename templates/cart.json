@@ -50,7 +50,7 @@
         "buttons"
       ],
       "custom_css": [
-        ".dynamic-checkout__content {margin-bottom: 40px;}"
+        ".dynamic-checkout__content {margin-bottom: 30px;}"
       ],
       "settings": {
         "color_scheme": "",
