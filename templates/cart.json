@@ -49,7 +49,7 @@
         "buttons"
       ],
       "custom_css": [
-        ".totals {margin-bottom: 30px;}"
+        ".dynamic-checkout__content {margin-bottom: 40px;}"
       ],
       "settings": {
         "color_scheme": "",
