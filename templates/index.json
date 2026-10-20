@@ -597,6 +597,7 @@
         },
         "collapsible_row_r7dYmT": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Will I be charged customs or import fees?",
             "icon": "none",
@@ -616,6 +617,7 @@
         },
         "collapsible_row_BfR8m6": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Do your books feel as good as they look?",
             "icon": "none",
@@ -625,6 +627,7 @@
         },
         "collapsible_row_6QrqTw": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Can I ship to a PO Box?",
             "icon": "none",
@@ -634,6 +637,7 @@
         },
         "collapsible_row_4GTTCw": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Can I ship to an APO/FPO address?",
             "icon": "none",
@@ -643,6 +647,7 @@
         },
         "collapsible_row_YYC4wD": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "How do I personalize a book?",
             "icon": "none",
@@ -652,6 +657,7 @@
         },
         "collapsible_row_xEi68P": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Do you offer discounts?",
             "icon": "none",
@@ -661,6 +667,7 @@
         },
         "collapsible_row_UE6kMi": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Can I track my order?",
             "icon": "none",
@@ -697,6 +704,7 @@
         },
         "collapsible_row_WLAFcQ": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Are your books available for personalization in different languages?",
             "icon": "none",
