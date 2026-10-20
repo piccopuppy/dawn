@@ -273,7 +273,7 @@
         "custom_liquid_tfd3Q4": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Personalize the cover and story with the child's name</li>\n<li>Preview all 38 pages before ordering</li>\n<li>300,000+ sold, with 2,000+ 5-star Amazon ratings</li>\n<li>Recommended for ages 0-6</li>\n<li>Next <s>25</s> 18 customers get 50% off</li>\n</ul>"
+            "custom_liquid": "<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Personalize the cover and story with the child's name</li>\n<li>Preview all 38 pages before ordering</li>\n<li>300,000+ sold, with 2,000+ 5-star Amazon ratings</li>\n<li>Recommended for ages 0-6</li>\n<li>Next <s>25</s> 17 customers get 50% off</li>\n</ul>"
           }
         },
         "custom_liquid_MRqFVf": {
