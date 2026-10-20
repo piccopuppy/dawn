@@ -684,21 +684,21 @@
             "page": ""
           }
         },
+        "collapsible_row_Nj6n69": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will you add more books for personalization?",
+            "icon": "none",
+            "row_content": "<p>Yes! We'll soon add these titles:</p><p>In production:</p><ul><li><em>Dear Daughter</em></li><li><em>Dear Son</em></li></ul><p>Unconditional Love Series:</p><ul><li><em>I Wish You A Happy Birthday</em></li><li><em>I Will Always Be Proud of You</em></li><li><em>I Will Always Love You</em></li><li><em>Never Give Up On Your Dreams</em></li><li><em>Share The Kindness In Your Heart</em></li><li><em>Be The Best You Can Be</em></li><li><em>I Love You With All My Heart</em></li><li><em>I Will Always Believe In You</em></li></ul><p>Later</p><ul><li><em>Grandma's Timeless Wisdom</em></li></ul>",
+            "page": ""
+          }
+        },
         "collapsible_row_EakCtp": {
           "type": "collapsible_row",
           "settings": {
             "heading": "I have a question. How do I contact Picco Puppy?",
             "icon": "none",
             "row_content": "<p>Visit the <a href=\"/pages/support\" title=\"Shipping/Support\">Support</a> page for more answers to your questions. If you need support, reach our via the Help chat box in the bottom-right corner, the contact us form at the bottom of the support page, or email at <a href=\"mailto:help@piccopuppy.com\">help@piccopuppy.com</a>.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Nj6n69": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Will you add more books for personalization?",
-            "icon": "none",
-            "row_content": "<p>Yes! We'll soon add these titles:</p><p>Unconditional Love Series:</p><ul><li><em>I Will Always Be Proud of You</em></li><li><em>I Will Always Love You</em></li><li><em>I Wish You A Happy Birthday</em></li><li><em>Never Give Up On Your Dreams</em></li><li><em>Share The Kindness In Your Heart</em></li><li><em>Be The Best You Can Be</em></li><li><em>I Love You With All My Heart</em></li><li><em>I Will Always Believe In You</em></li></ul><p>Also coming:</p><ul><li><em>Dear Daughter</em></li><li><em>Dear Son</em></li><li><em>Grandma's Timeless Wisdom</em></li></ul>",
             "page": ""
           }
         },
@@ -726,8 +726,8 @@
         "collapsible_row_xEi68P",
         "collapsible_row_UE6kMi",
         "collapsible_row_PPHiUk",
-        "collapsible_row_EakCtp",
         "collapsible_row_Nj6n69",
+        "collapsible_row_EakCtp",
         "collapsible_row_WLAFcQ"
       ],
       "custom_css": [
