@@ -378,7 +378,7 @@
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": false,
-        "media_fit": "cover",
+        "media_fit": "contain",
         "gallery_layout": "thumbnail",
         "mobile_thumbnails": "show",
         "media_position": "left",
