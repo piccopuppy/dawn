@@ -391,8 +391,17 @@
     "17840249473964463a": {
       "type": "apps",
       "blocks": {
+        "judge_me_reviews_review_widget_homepage_GngdhT": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "i-wish-you-happiness-jacketed-hardcover",
+            "review_data": "real_data",
+            "max_width": 1200
+          }
+        },
         "judge_me_reviews_review_widget_homepage_b73rLL": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
           "settings": {
             "product": "i-wish-you-happiness-personalized",
             "review_data": "real_data",
@@ -401,6 +410,7 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_review_widget_homepage_GngdhT",
         "judge_me_reviews_review_widget_homepage_b73rLL"
       ],
       "custom_css": [
