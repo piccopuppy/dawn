@@ -85,7 +85,7 @@
       "custom_css": [
         ".product__tax {display: none;}",
         "@media only screen and (min-width: 767px) {h1 {font-family: Georgia; font-size: 32px; line-height: 48px !important; }}",
-        "@media only screen and (max-width: 766px) {h1 {font-family: Georgia; font-size: 20px; line-height: 30px !important; }}"
+        "@media only screen and (max-width: 766px) {h1 {font-family: Georgia; font-size: 20px; line-height: 30px !important; margin-top: 40px; }}"
       ],
       "settings": {
         "enable_sticky_info": false,
