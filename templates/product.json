@@ -113,7 +113,7 @@
         "9b377639-fb24-4d37-b78d-21299a98f7af": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "review_data": "sample_data",
+            "review_data": "real_data",
             "max_width": 1200,
             "show_shop_reviews": false,
             "empty_state": "empty_widget"
@@ -131,13 +131,13 @@
         "9b377639-fb24-4d37-b78d-21299a98f7af",
         "c740b7be-c592-4562-abb0-78afd0adf300"
       ],
-      "disabled": true,
       "settings": {
         "include_margins": true
       }
     },
     "custom_liquid_c9AGUj": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
