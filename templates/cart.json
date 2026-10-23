@@ -96,7 +96,8 @@
         "judge_me_reviews_featured_carousel_Gce7kx"
       ],
       "custom_css": [
-        ".jdgm-carousel-title {font-weight: 600;}"
+        ".jdgm-carousel-title {font-weight: 600;}",
+        "@media only screen and (max-width: 766px) {.jdgm-carousel-title {font-size: 24px; }}"
       ],
       "settings": {
         "include_margins": true
