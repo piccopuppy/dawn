@@ -270,6 +270,10 @@
             "custom_liquid": "<style>\n.pp-new{display:inline-block;margin-left:6px;padding:1px 8px;font-size:11px;font-weight:700;letter-spacing:1px;line-height:1.4;vertical-align:middle;border-radius:10px;white-space:nowrap;background:#FBF7EE;color:#16263D;border:1.5px solid #D4AD6A}\n</style>\n<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Your child's name on the cover and in the story</li>\n<li>Add a dedication and your name<span class=\"pp-new\">NEW</span></li>\n<li>Preview the cover and all 39 pages before ordering</li>\n<li>Printed and shipped in 3-5 business days</li>\n<li>12-month Happiness Guarantee</li>\n<li>300,000+ sold · 2,000+ 5-star Amazon ratings</li>\n<li><b><s>First 25</s> Next 16 customers pay HALF PRICE!</b></li>\n</ul>"
           }
         },
+        "rating_gfHLnN": {
+          "type": "rating",
+          "settings": {}
+        },
         "custom_liquid_MRqFVf": {
           "type": "custom_liquid",
           "settings": {
@@ -344,6 +348,7 @@
         "title_zKVTXf",
         "judge_me_reviews_preview_badge_mR3fjX",
         "custom_liquid_tfd3Q4",
+        "rating_gfHLnN",
         "custom_liquid_MRqFVf",
         "price_hQzfbR",
         "variant_picker_BVAdm3",
@@ -386,6 +391,7 @@
       "blocks": {
         "judge_me_reviews_review_widget_homepage_GngdhT": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
           "settings": {
             "product": "i-wish-you-happiness-jacketed-hardcover",
             "review_data": "real_data",
@@ -394,7 +400,6 @@
         },
         "judge_me_reviews_review_widget_homepage_b73rLL": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
           "settings": {
             "product": "i-wish-you-happiness-personalized",
             "review_data": "real_data",
@@ -406,7 +411,6 @@
         "judge_me_reviews_review_widget_homepage_GngdhT",
         "judge_me_reviews_review_widget_homepage_b73rLL"
       ],
-      "disabled": true,
       "custom_css": [
         "h2 {font-size: 28px;}",
         "@media only screen and (max-width: 750px) {h2 {font-size: 20px; }}"
@@ -542,6 +546,7 @@
     },
     "custom_liquid_6ggqN9": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 766px) {.pp-t-home .pp-t-title {font-weight: 600; } .pp-t-band h2 {font-weight: 600; }}"
       ],
@@ -1115,16 +1120,6 @@
         "padding_bottom": 36
       }
     },
-    "17840232302050c15e": {
-      "type": "apps",
-      "disabled": true,
-      "custom_css": [
-        ".sun-editor-editable * p {font-size: 24px; font-weight: 10;}"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "1784013568d92ea78f": {
       "type": "apps",
       "blocks": {
@@ -1255,7 +1250,6 @@
     "8f14500a-85a5-4baa-8368-9825d7ce9421",
     "rich_text_4WiyNT",
     "featured_collection_Czixep",
-    "17840232302050c15e",
     "1784013568d92ea78f",
     "1696067488ca54295d",
     "178597052578fbd85e",
