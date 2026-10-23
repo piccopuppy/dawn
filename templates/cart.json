@@ -61,7 +61,7 @@
     "custom_liquid_7KaKGt": {
       "type": "custom-liquid",
       "custom_css": [
-        ".pp-promise {margin-top: 20px;}"
+        ".pp-promise {margin-top: 40px;}"
       ],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
