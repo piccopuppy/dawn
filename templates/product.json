@@ -27,6 +27,10 @@
           "disabled": true,
           "settings": {}
         },
+        "judge_me_reviews_preview_badge_zUpptU": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
         "price": {
           "type": "price",
           "disabled": true,
@@ -74,6 +78,7 @@
         "title",
         "custom_liquid_FEmPyq",
         "c2407694-7f87-4ea6-93e4-356d8155c55f",
+        "judge_me_reviews_preview_badge_zUpptU",
         "price",
         "custom_liquid_JQWxR9",
         "picco_puppy_pdf_personalizer_pico_puppy_panel_REdzFN",
