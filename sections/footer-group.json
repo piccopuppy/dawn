@@ -63,7 +63,8 @@
       "custom_css": [
         ".footer__copyright {margin: 2em auto !important;}",
         ".footer-block__details-content {font-size: 14px;}",
-        ".footer-block__details-content ol li {margin-bottom: 10px; margin-left: -20px;}"
+        ".footer-block__details-content ol li {margin-bottom: 10px; margin-left: -20px;}",
+        "@media screen and (max-width: 767px) {.footer-block__heading {font-weight: 600; }}"
       ],
       "settings": {
         "color_scheme": "background-1",
