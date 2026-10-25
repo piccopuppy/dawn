@@ -9,12 +9,24 @@
  */
 {
   "sections": {
+    "custom_liquid_i6Bjhg": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div align=\"center\">\n<h2>We're sorry but the page no longer exists.</h2>\n<div style=\"font-size:18px;\">\n<p>Choose from these options:</p>\n<p><a href=\"https://www.piccopuppy.com\">Personalize the <em>I Wish You Happiness</em> book</a></p>\n<p><a href=\"https://www.piccopuppy.com/pages/support\">Visit the Support page</a></p>\n</div>\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-404",
+      "disabled": true,
       "settings": {}
     }
   },
   "order": [
+    "custom_liquid_i6Bjhg",
     "main"
   ]
 }
