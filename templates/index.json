@@ -33,10 +33,9 @@
         },
         "text_xXXDTa": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "The Complete Unconditional Love Series available in HARDCOVER",
-            "text_style": "body"
+            "text": "FIRST 25 CUSTOMERS",
+            "text_style": "subtitle"
           }
         }
       },
