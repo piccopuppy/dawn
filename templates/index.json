@@ -34,7 +34,7 @@
         "text_xXXDTa": {
           "type": "text",
           "settings": {
-            "text": "(FIRST 25 CUSTOMERS)",
+            "text": "(NEXT 12 CUSTOMERS)",
             "text_style": "subtitle"
           }
         }
