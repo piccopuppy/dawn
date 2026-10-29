@@ -245,17 +245,24 @@
     "featured_product_8T6ihF": {
       "type": "featured-product",
       "blocks": {
-        "text_gHR7cU": {
+        "text_VNmerr": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
+            "text": "Text block",
+            "text_style": "body"
           }
         },
         "title_zKVTXf": {
           "type": "title",
           "settings": {
             "heading_size": "h1"
+          }
+        },
+        "text_gHR7cU": {
+          "type": "text",
+          "settings": {
+            "text": "The wishes you hold for your child or grandchild, beautifully told.",
+            "text_style": "subtitle"
           }
         },
         "judge_me_reviews_preview_badge_homepage_Y4nmPA": {
@@ -350,8 +357,9 @@
         }
       },
       "block_order": [
-        "text_gHR7cU",
+        "text_VNmerr",
         "title_zKVTXf",
+        "text_gHR7cU",
         "judge_me_reviews_preview_badge_homepage_Y4nmPA",
         "judge_me_reviews_preview_badge_mR3fjX",
         "custom_liquid_tfd3Q4",
