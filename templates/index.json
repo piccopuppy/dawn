@@ -377,12 +377,10 @@
       ],
       "custom_css": [
         "@media only screen and (min-width: 750px) {div {margin: 10px auto; } .product__title {font: 40px/64px Georgia; }}",
-        "@media only screen and (max-width: 750px) {.product__title {font: 32px/48px Georgia; } .product__title {margin-top: 40px; } .product-images-below-gallery__image {margin-top: 30px; }}",
-        ".product__info-container > *:first-child {display: none;}",
-        ".product-form__input {display: none;}",
-        ".product__tax {display: none;}",
+        "@media only screen and (max-width: 750px) {.product__title {font: 32px/48px Georgia; margin-top: 40px; } .product-images-below-gallery__image {margin-top: 30px; }}",
+        ".product__info-container > *:first-child,.product-form__input,.product__tax {display: none;}",
         ".button,.shopify-challenge__button,.customer button {margin: 24px 0 24px 0;}",
-        " .product__text {font: 20px/30px Georgia; }"
+        ".product__text {font: 20px/30px Georgia; margin-top: -10px;}"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
