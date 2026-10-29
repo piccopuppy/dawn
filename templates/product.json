@@ -16,6 +16,13 @@
           "type": "title",
           "settings": {}
         },
+        "text_QNe6hP": {
+          "type": "text",
+          "settings": {
+            "text": "The wishes you hold for a special child, in a story to treasure",
+            "text_style": "subtitle"
+          }
+        },
         "custom_liquid_FEmPyq": {
           "type": "custom_liquid",
           "settings": {
@@ -76,6 +83,7 @@
       },
       "block_order": [
         "title",
+        "text_QNe6hP",
         "custom_liquid_FEmPyq",
         "c2407694-7f87-4ea6-93e4-356d8155c55f",
         "judge_me_reviews_preview_badge_zUpptU",
