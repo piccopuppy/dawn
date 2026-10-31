@@ -74,6 +74,60 @@
         "padding_bottom": 12
       }
     },
+    "multicolumn_73Bgbw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_TUHf6F": {
+          "type": "column",
+          "settings": {
+            "title": "Fast delivery",
+            "text": "<p>Printed to order and shipped within 3-5 business days.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7ETtkN": {
+          "type": "column",
+          "settings": {
+            "title": "Loved by families",
+            "text": "<p>300,000+ sold · 2,000+ 5-star Amazon ratings (4.8/5)</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pmHLdR": {
+          "type": "column",
+          "settings": {
+            "title": "Award-winning",
+            "text": "<p>Written by an award-winning author and illustrated by an award-winning artist.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TUHf6F",
+        "column_7ETtkN",
+        "column_pmHLdR"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Why families choose Picco Puppy",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collapsible_content_EWqD9z": {
       "type": "collapsible-content",
       "blocks": {
@@ -231,6 +285,7 @@
     "cart-items",
     "cart-footer",
     "custom_liquid_7KaKGt",
+    "multicolumn_73Bgbw",
     "collapsible_content_EWqD9z",
     "custom_liquid_NGWttF",
     "17927333930df78857",
