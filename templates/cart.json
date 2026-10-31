@@ -81,7 +81,7 @@
           "type": "column",
           "settings": {
             "title": "Fast delivery",
-            "text": "<p>Shipped within 3-5 business days</p>",
+            "text": "<p>Printed to order and shipped within 3-5 business days</p>",
             "link_label": "",
             "link": ""
           }
@@ -90,17 +90,16 @@
           "type": "column",
           "settings": {
             "title": "Loved by families",
-            "text": "<p>300,000+ sold · 2,000+ 5-star Amazon ratings</p>",
+            "text": "<p>300,000+ sold · Rated 4.8 out of 5 by 2,000+ Amazon customers</p>",
             "link_label": "",
             "link": ""
           }
         },
         "column_pmHLdR": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "title": "Award-winning",
-            "text": "<p>Written by an award-winning author and illustrated by an award-winning artist.</p>",
+            "text": "<p>Written and illustrated by an award-winning author and illustrator</p>",
             "link_label": "",
             "link": ""
           }
@@ -122,7 +121,7 @@
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "",
