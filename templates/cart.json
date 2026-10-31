@@ -97,6 +97,7 @@
         },
         "column_pmHLdR": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Award-winning",
             "text": "<p>Written by an award-winning author and illustrated by an award-winning artist.</p>",
@@ -114,12 +115,12 @@
       "settings": {
         "title": "Why families choose Picco Puppy",
         "heading_size": "h2",
-        "image_width": "full",
+        "image_width": "half",
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "left",
+        "columns_desktop": 2,
+        "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "",
         "columns_mobile": "1",
@@ -160,6 +161,7 @@
         },
         "collapsible_row_DFELen": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "I have a question. How do I contact Picco Puppy?",
             "icon": "none",
