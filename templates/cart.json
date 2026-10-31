@@ -99,7 +99,7 @@
           "type": "column",
           "settings": {
             "title": "Award-winning",
-            "text": "<p>Written and illustrated by an award-winning author and illustrator</p>",
+            "text": "<p>An award-winning author and an award-winning illustrator</p>",
             "link_label": "",
             "link": ""
           }
