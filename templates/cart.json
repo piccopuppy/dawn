@@ -112,7 +112,7 @@
         "column_pmHLdR"
       ],
       "custom_css": [
-        "@media screen and (min-width: 750px) {.section-template--25289772728513__multicolumn_73Bgbw-padding {max-width: 500px !important; }}"
+        ".section-template--25289772728513__multicolumn_73Bgbw-padding, .page-width {max-width: 860px;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
