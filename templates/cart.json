@@ -112,7 +112,7 @@
       ],
       "custom_css": [
         ".section-template--25289772728513__multicolumn_73Bgbw-padding,.page-width {max-width: 860px;}",
-        ".inline-richtext {font-weight:600;}"
+        ".content-container .inline-richtext {font-weight: 600;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
