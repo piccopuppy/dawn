@@ -90,7 +90,7 @@
           "type": "column",
           "settings": {
             "title": "Loved by families",
-            "text": "<p>300,000+ sold · 2,000+ 5-star Amazon ratings (4.8/5)</p>",
+            "text": "<p>300,000+ sold · 2,000+ 5-star Amazon ratings</p>",
             "link_label": "",
             "link": ""
           }
