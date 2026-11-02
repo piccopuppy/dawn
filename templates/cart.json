@@ -64,7 +64,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div style=\"text-align:center;\"><b>USA/Canada/EU/Australia: Order by December 7 (UK: December 14) for Christmas delivery*</b></div>\n<div style=\"text-align:center; font-size:12px;\">*Delivery by Christmas can't be guaranteed. Order early for the best chance.</div>",
+        "custom_liquid": "<div style=\"text-align:center;\"><b>USA/Canada/EU/Australia: Order by Dec 7 (UK: Dec 14) for Christmas delivery*</b></div>\n<div style=\"text-align:center; font-size:12px;\">*Delivery by Christmas can't be guaranteed. Order early for the best chance.</div>",
         "color_scheme": "",
         "padding_top": 32,
         "padding_bottom": 32
