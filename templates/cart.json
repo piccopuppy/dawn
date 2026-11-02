@@ -28,7 +28,7 @@
         ".title-wrapper-with-link {display: none;}",
         "h1 {font-size: 24px !important;}",
         "@media only screen and (max-width: 750px) {.section-template--25289772728513__cart-items-padding {padding-top: 0; } h1 {font-size: 18px !important; } .title-wrapper-with-link {margin-bottom: 20px; }}",
-        ".pp-cart-dl-slot,.cart-item__details > .pp-cart-dl-slot {margin-top: 1em !important;}"
+        ".cart-item__details > .pp-cart-dl-slot {margin-top: 1em !important;}"
       ],
       "settings": {
         "color_scheme": "",
