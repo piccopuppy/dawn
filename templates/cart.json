@@ -150,7 +150,7 @@
           "settings": {
             "heading": "What's the last day to order for Christmas delivery?",
             "icon": "none",
-            "row_content": "<p>To have your book arrive by Christmas, order by these dates:</p><ul><li><strong>USA:</strong> Monday, December 7</li><li><strong>Canada:</strong> Monday, December 7</li><li><strong>Europe:</strong> Monday, December 7</li><li><strong>Australia:</strong> Monday, December 7</li><li><strong>UK:</strong> Monday, December 14</li><li><strong>Rest of the world:</strong> order as early as you can</li></ul><p>Delivery times can change for reasons outside our control, so we can't guarantee arrival by Christmas. Ordering early gives your book the best chance.</p>",
+            "row_content": "<p>To have your book arrive by Christmas, order by these dates:</p><ul><li><strong>USA:</strong> Monday, December 7</li><li><strong>Canada:</strong> Monday, December 7</li><li><strong>Europe:</strong> Monday, December 7</li><li><strong>Australia:</strong> Monday, December 7</li><li><strong>UK:</strong> Monday, December 14</li><li><strong>Rest of the world:</strong> Order as early as you can</li></ul><p>Delivery times can change for reasons outside our control, so we can't guarantee arrival by Christmas. Ordering early gives your book the best chance.</p>",
             "page": ""
           }
         },
