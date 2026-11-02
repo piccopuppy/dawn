@@ -17,15 +17,7 @@
         "announcement_biKDPp": {
           "type": "announcement",
           "settings": {
-            "text": "To arrive by Christmas, order by December 7",
-            "link": ""
-          }
-        },
-        "announcement_E9CRXN": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "\"My husband got teary-eyed\"—Danielle, USA",
+            "text": "To arrive by Christmas, order by December 7 *",
             "link": ""
           }
         },
@@ -36,20 +28,18 @@
             "link": ""
           }
         },
-        "announcement_mLW9r8": {
+        "announcement_E9CRXN": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "\"It's beautiful! ❤️ 😍 💖\"—Robin, USA",
+            "text": "12-month Happiness Guarantee",
             "link": ""
           }
         }
       },
       "block_order": [
         "announcement_biKDPp",
-        "announcement_E9CRXN",
         "announcement_HNFNC6",
-        "announcement_mLW9r8"
+        "announcement_E9CRXN"
       ],
       "settings": {
         "auto_rotate": true,
