@@ -17,14 +17,14 @@
         "announcement_biKDPp": {
           "type": "announcement",
           "settings": {
-            "text": "To arrive by Christmas, order by December 7 *",
+            "text": "Order by December 7 for Christmas delivery*",
             "link": ""
           }
         },
         "announcement_HNFNC6": {
           "type": "announcement",
           "settings": {
-            "text": "We ship worldwide (order as early as possible)",
+            "text": "We ship worldwide (120 countries)",
             "link": ""
           }
         },
