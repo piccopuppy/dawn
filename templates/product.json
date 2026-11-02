@@ -181,6 +181,15 @@
     "collapsible_content_VMCaUP": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_gf6MCe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When do I need to order for Christmas delivery?",
+            "icon": "none",
+            "row_content": "<p>To have your book arrive by Christmas, order by these dates:</p><ul><li><strong>USA:</strong> Monday, December 7</li><li><strong>Canada:</strong> Monday, December 7</li><li><strong>Europe:</strong> Monday, December 7</li><li><strong>Australia:</strong> Monday, December 7</li><li><strong>UK:</strong> Monday, December 14</li><li><strong>Rest of the world:</strong> order as early as you can</li></ul><p>Delivery times can change for reasons outside our control, so we can't guarantee arrival by Christmas. Ordering early gives your book the best chance.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_iwdnMh": {
           "type": "collapsible_row",
           "settings": {
@@ -327,6 +336,7 @@
         }
       },
       "block_order": [
+        "collapsible_row_gf6MCe",
         "collapsible_row_iwdnMh",
         "collapsible_row_CwFThq",
         "collapsible_row_FnzYrE",
