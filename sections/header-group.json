@@ -23,6 +23,7 @@
         },
         "announcement_E9CRXN": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "\"My husband got teary-eyed\"—Danielle, USA",
             "link": ""
@@ -31,12 +32,13 @@
         "announcement_HNFNC6": {
           "type": "announcement",
           "settings": {
-            "text": "WE SHIP WORLDWIDE",
+            "text": "We ship worldwide",
             "link": ""
           }
         },
         "announcement_mLW9r8": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "\"It's beautiful! ❤️ 😍 💖\"—Robin, USA",
             "link": ""
