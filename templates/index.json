@@ -311,18 +311,17 @@
           "disabled": true,
           "settings": {}
         },
+        "custom_liquid_6K4Kyp": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p>Order by Dec. 7 (UK: Dec. 14) for Christmas delivery*</p>"
+          }
+        },
         "custom_liquid_BDi6T9": {
           "type": "custom_liquid",
           "name": "Personalized Button",
           "settings": {
             "custom_liquid": "{% assign snip_product = nil %}\n\n{% if closest.product.metafields.custom.personalized_product.value != blank %}\n  {% assign snip_product = closest.product.metafields.custom.personalized_product.value %}\n{% elsif closest.product.metafields.pico_pdf.config.value != blank %}\n  {% assign snip_product = closest.product %}\n{% endif %}\n\n{% if snip_product %}\n  <button\n    type=\"button\"\n    id=\"personalize\"\n    class=\"picco-button button button--full-width button--primary\"\n    data-product-id=\"{{ snip_product.id }}\">\n    Personalize your book\n  </button>\n{% endif %}"
-          }
-        },
-        "custom_liquid_6K4Kyp": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "Standard edition from US$14.99 · CA$21.99 · £10.99 · €12.99 · AU$24.99 · NZ$29.99"
           }
         },
         "custom_liquid_8JViYE": {
@@ -368,8 +367,8 @@
         "price_hQzfbR",
         "variant_picker_BVAdm3",
         "quantity_selector_CbXYNK",
-        "custom_liquid_BDi6T9",
         "custom_liquid_6K4Kyp",
+        "custom_liquid_BDi6T9",
         "custom_liquid_8JViYE",
         "buy_buttons_Xed9hP",
         "text_Bz8Lpy",
