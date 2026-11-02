@@ -17,7 +17,7 @@
         "announcement_biKDPp": {
           "type": "announcement",
           "settings": {
-            "text": "LOVE IT OR WE'LL MAKE IT RIGHT PROMISE",
+            "text": "To arrive by Christmas, order by December 7",
             "link": ""
           }
         },
@@ -49,7 +49,6 @@
         "announcement_HNFNC6",
         "announcement_mLW9r8"
       ],
-      "disabled": true,
       "settings": {
         "auto_rotate": true,
         "change_slides_speed": 3,
