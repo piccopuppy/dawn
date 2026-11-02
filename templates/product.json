@@ -64,6 +64,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_liquid_KVy3DJ": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p><b>🎄 Order by Dec 7 (UK: Dec 14) for Christmas</b>*</p>"
+          }
+        },
         "custom_liquid_dn7Ezi": {
           "type": "custom_liquid",
           "name": "Personalized Button",
@@ -85,6 +91,7 @@
         "custom_liquid_JQWxR9",
         "picco_puppy_pdf_personalizer_pico_puppy_panel_REdzFN",
         "buy_buttons",
+        "custom_liquid_KVy3DJ",
         "custom_liquid_dn7Ezi",
         "description"
       ],
