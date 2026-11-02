@@ -27,7 +27,8 @@
       "custom_css": [
         ".title-wrapper-with-link {display: none;}",
         "h1 {font-size: 24px !important;}",
-        "@media only screen and (max-width: 750px) {.section-template--25289772728513__cart-items-padding {padding-top: 0; } h1 {font-size: 18px !important; } .title-wrapper-with-link {margin-bottom: 20px; }}"
+        "@media only screen and (max-width: 750px) {.section-template--25289772728513__cart-items-padding {padding-top: 0; } h1 {font-size: 18px !important; } .title-wrapper-with-link {margin-bottom: 20px; }}",
+        ".pp-cart-dl-slot,.cart-item__details > .pp-cart-dl-slot {margin-top: 1em !important;}"
       ],
       "settings": {
         "color_scheme": "",
@@ -112,7 +113,7 @@
       "custom_css": [
         ".section-template--25289772728513__multicolumn_73Bgbw-padding,.page-width {max-width: 860px;}",
         ".content-container .inline-richtext {font-weight: 600;}",
-        ".pp-cart-dl-slot,.cart-item__details > .pp-cart-dl-slot {margin-top:1em;}"
+        ".pp-cart-dl-slot,.cart-item__details > .pp-cart-dl-slot {margin-top: 1em;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
