@@ -34,7 +34,7 @@
         "text_xXXDTa": {
           "type": "text",
           "settings": {
-            "text": "(NEXT 10 CUSTOMERS)",
+            "text": "(Only 10 discounted books left)",
             "text_style": "subtitle"
           }
         }
