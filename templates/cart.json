@@ -228,7 +228,6 @@
         "collapsible_row_Ep4Rxw",
         "collapsible_row_DFELen"
       ],
-      "disabled": true,
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 800px;}",
         ".collapsible-content__heading {font-size: 28px !important; font-weight: 500;}",
@@ -336,6 +335,7 @@
     },
     "1793665201d860f6aa": {
       "type": "apps",
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
