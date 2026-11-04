@@ -65,6 +65,7 @@
       "blocks": {
         "collapsible_row_A7K6md": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "What's the last day to order for Christmas delivery?",
             "icon": "none",
@@ -131,6 +132,7 @@
         "collapsible_row_Ep4Rxw",
         "collapsible_row_DFELen"
       ],
+      "disabled": true,
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 800px;}",
         ".collapsible-content__heading {font-size: 22px !important; font-weight: 500;}",
