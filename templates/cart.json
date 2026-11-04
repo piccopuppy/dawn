@@ -60,8 +60,103 @@
         "padding_bottom": 40
       }
     },
+    "collapsible_content_EWqD9z": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_A7K6md": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's the last day to order for Christmas delivery?",
+            "icon": "none",
+            "row_content": "<p>To have your book arrive by Christmas, order by these dates:</p><ul><li><strong>USA:</strong></li></ul><ol><li>Standard: Thursday, December 10</li><li>Expedited: Wednesday, December 16</li></ol><ul><li><strong>Canada:</strong></li></ul><ol><li>Standard: Tuesday, December 8</li><li>Expedited: Monday, December 14</li></ol><ul><li><strong>Europe:</strong> Monday, December 7</li><li><strong>Australia:</strong></li></ul><ol><li>NSW, QLD & VIC (metro): Wednesday, December 16</li><li>SA & ACT (metro): Tuesday, December 15</li><li>WA (metro): Saturday, December 12</li><li>TAS (metro): Sunday, December 13</li><li>NT (metro): Thursday, December 10</li><li>All regional/major cities: Order by Thursday, December 10 to be safe</li></ol><ul><li><strong>UK:</strong></li></ul><ol><li>Standard: Monday, December 14</li><li>Express: Tuesday, December 15</li></ol><ul><li><strong>Rest of the world:</strong> Order as early as you can</li></ul><p>Delivery times can change for reasons outside our control, so we can't guarantee arrival by Christmas. Ordering early gives your book the best chance.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XabYnm": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "How long is delivery?",
+            "icon": "none",
+            "row_content": "<p>Your book is made for you, printed on demand. Add the estimated production time to the shipping time below for an estimated delivery date:<br/><br/><strong>Estimated production time</strong>:<br/></p><ul><li><strong>USA</strong>: 3-4 business days</li><li><strong>Canada</strong>: 3-4 business days</li><li><strong>UK</strong>: 2-3 business days</li><li><strong>Australia</strong>: 3-4 business days</li><li><strong>New Zealand</strong>: 3-4 business days</li><li><strong>EU</strong>: 4-5 business days</li><li><strong>Rest of the World</strong>:&nbsp;2-5 business days<br/></li></ul><p>We add a shipping fee to each order, which lets us keep our books top quality without raising their prices. Your shipping options and costs, which include packaging and handling, are shown at checkout after you enter your delivery address.</p><p><strong>Estimated shipping time</strong>:</p><ul><li><strong>USA (48 contiguous states):</strong>&nbsp;1-5 business days</li></ul><ol><li><strong>Alaska:</strong>&nbsp;2 business days</li><li><strong>American Samoa:</strong>&nbsp;1-5 business days</li><li><strong>Guam:</strong>&nbsp;1-5 business days</li><li><strong>Hawaii:</strong>&nbsp;1-2 business days</li><li><strong>Northern Mariana Islands:</strong>&nbsp;1-5 business days</li><li><strong>Puerto Rico:</strong>&nbsp;2-5 business days</li><li><strong>U.S. Minor Outlying Islands:</strong>&nbsp;1-5 business days</li><li><strong>U.S. Virgin Islands:</strong>&nbsp;1-5 business days</li></ol><ul><li><strong>Canada:</strong>&nbsp;1-5 business days</li><li><strong>UK:</strong>&nbsp;1-3 business days</li><li><strong>Australia:</strong>&nbsp;1-5 business days</li><li><strong>New Zealand:</strong>&nbsp;4-7 business days</li><li><strong>Åland Islands:</strong>&nbsp;5-6 business days</li><li><strong>Albania:</strong>&nbsp;5-8 business days</li><li><strong>Andorra:</strong>&nbsp;4-6 business days</li><li><strong>Argentina:</strong>&nbsp;8-12 business days</li><li><strong>Austria:</strong>&nbsp;3-4 business days</li><li><strong>Bahrain:</strong>&nbsp;6-8 business days</li><li><strong>Bangladesh:</strong>&nbsp;10-12 business days</li><li><strong>Barbados:</strong>&nbsp;5-7 business days</li><li><strong>Belarus:</strong>&nbsp;7-9 business days</li><li><strong>Belgium:</strong>&nbsp;2-3 business days</li><li><strong>Belize:</strong>&nbsp;6-10 business days</li><li><strong>Bosnia and Herzegovina:</strong>&nbsp;5-7 business days</li><li><strong>Botswana:</strong>&nbsp;7-12 business days</li><li><strong>Brazil:</strong>&nbsp;8-11 business days</li><li><strong>Brunei:</strong>&nbsp;5-10 business days</li><li><strong>Bulgaria:</strong>&nbsp;6-8 business days</li><li><strong>Cambodia:</strong>&nbsp;5-8 business days</li><li><strong>Chile:</strong>&nbsp;5-10 business days</li><li><strong>China:</strong>&nbsp;4-9 business days</li><li><strong>Cook Islands:</strong>&nbsp;6-10 business days</li><li><strong>Croatia:</strong>&nbsp;4-6 business days</li><li><strong>Cyprus:</strong>&nbsp;6-8 business days</li><li><strong>Czechia:</strong>&nbsp;3-4 business days</li><li><strong>Denmark:</strong>&nbsp;3-4 business days</li><li><strong>Dominica:</strong>&nbsp;5-12 business days</li><li><strong>Egypt:</strong>&nbsp;5-10 business days</li><li><strong>Estonia:</strong>&nbsp;6-7 business days</li><li><strong>Faroe Islands:</strong>&nbsp;4-9 business days</li><li><strong>Fiji:</strong>&nbsp;7-13 business days</li><li><strong>Finland:</strong>&nbsp;5-6 business days</li><li><strong>France:</strong>&nbsp;2-4 business days</li><li><strong>French Polynesia:</strong>&nbsp;6-12 business days</li><li><strong>Germany:</strong>&nbsp;2-3 business days</li><li><strong>Ghana:</strong>&nbsp;6-10 business days</li><li><strong>Gibraltar:</strong>&nbsp;5-7 business days</li><li><strong>Greece:</strong>&nbsp;7-9 business days</li><li><strong>Greenland:</strong>&nbsp;5-9 business days</li><li><strong>Grenada:</strong>&nbsp;5-7 business days</li><li><strong>Guernsey:</strong>&nbsp;4-5 business days</li><li><strong>Guyana:</strong>&nbsp;5-11 business days</li><li><strong>Hong Kong:</strong>&nbsp;4-7 business days</li><li><strong>Hungary:</strong>&nbsp;4-5 business days</li><li><strong>Iceland:</strong>&nbsp;5-6 business days</li><li><strong>India:</strong>&nbsp;7-11 business days</li><li><strong>Indonesia:</strong>&nbsp;4-7 business days</li><li><strong>Ireland:</strong>&nbsp;3-5 business days</li><li><strong>Isle of Man:</strong>&nbsp;4-5 business days</li><li><strong>Israel:</strong>&nbsp;8-9 business days</li><li><strong>Italy:</strong>&nbsp;4-6 business days</li><li><strong>Jamaica:</strong>&nbsp;6-10 business days</li><li><strong>Japan:</strong>&nbsp;4-7 business days</li><li><strong>Jersey:</strong>&nbsp;5-6 business days</li><li><strong>Jordan:</strong>&nbsp;5-8 business days</li><li><strong>Kenya:</strong>&nbsp;7-11 business days</li><li><strong>Kosovo:</strong>&nbsp;5-10 business days</li><li><strong>Kuwait:</strong>&nbsp;5-10 business days</li><li><strong>Laos:</strong>&nbsp;6-10 business days</li><li><strong>Latvia:</strong>&nbsp;6-7 business days</li><li><strong>Liechtenstein:</strong>&nbsp;3-4 business days</li><li><strong>Lithuania:</strong>&nbsp;6-7 business days</li><li><strong>Luxembourg:</strong>&nbsp;3-5 business days</li><li><strong>Macau:</strong>&nbsp;5-8 business days</li><li><strong>Malaysia:</strong>&nbsp;5-8 business days</li><li><strong>Maldives:</strong>&nbsp;9-12 business days</li><li><strong>Malta:</strong>&nbsp;5-8 business days</li><li><strong>Mauritius:</strong>&nbsp;8-12 business days</li><li><strong>Mexico:</strong>&nbsp;7-11 business days</li><li><strong>Moldova:</strong>&nbsp;7-10 business days</li><li><strong>Monaco:</strong>&nbsp;3-4 business days</li><li><strong>Montenegro:</strong>&nbsp;5-8 business days</li><li><strong>Namibia:</strong>&nbsp;6-10 business days</li><li><strong>Nepal:</strong>&nbsp;6-10 business days</li><li><strong>Netherlands:</strong>&nbsp;1-2 business days</li><li><strong>New Caledonia:</strong>&nbsp;6-12 business days</li><li><strong>Nigeria:</strong>&nbsp;7-11 business days</li><li><strong>North Macedonia:</strong>&nbsp;5-8 business days</li><li><strong>Norway:</strong>&nbsp;5-7 business days</li><li><strong>Oman:</strong>&nbsp;6-8 business days</li><li><strong>Pakistan:</strong>&nbsp;6-10 business days</li><li><strong>Papua New Guinea:</strong>&nbsp;6-13 business days</li><li><strong>Philippines:</strong>&nbsp;8-12 business days</li><li><strong>Poland:</strong>&nbsp;3-5 business days</li><li><strong>Portugal:</strong>&nbsp;5-7 business days</li><li><strong>Qatar:</strong>&nbsp;7-11 business days</li><li><strong>Romania:</strong>&nbsp;5-8 business days</li><li><strong>Saint Kitts and Nevis:</strong>&nbsp;6-8 business days</li><li><strong>Samoa:</strong>&nbsp;8-12 business days</li><li><strong>San Marino:</strong>&nbsp;4-6 business days</li><li><strong>Saudi Arabia:</strong>&nbsp;7-10 business days</li><li><strong>Serbia:</strong>&nbsp;6-8 business days</li><li><strong>Seychelles:</strong>&nbsp;9-13 business days</li><li><strong>Singapore:</strong>&nbsp;4-7 business days</li><li><strong>Slovakia:</strong>&nbsp;3-6 business days</li><li><strong>Slovenia:</strong>&nbsp;5-6 business days</li><li><strong>South Africa:</strong>&nbsp;6-10 business days</li><li><strong>South Korea:</strong>&nbsp;5-8 business days</li><li><strong>Spain:</strong>&nbsp;4-6 business days</li><li><strong>Sri Lanka:</strong>&nbsp;8-12 business days</li><li><strong>Sweden:</strong>&nbsp;4-5 business days</li><li><strong>Switzerland:</strong>&nbsp;3-5 business days</li><li><strong>Taiwan:</strong>&nbsp;5-9 business days</li><li><strong>Tanzania:</strong>&nbsp;7-13 business days</li><li><strong>Thailand:</strong>&nbsp;6-12 business days</li><li><strong>Tonga:</strong>&nbsp;8-12 business days</li><li><strong>Trinidad and Tobago:</strong>&nbsp;5-7 business days</li><li><strong>Türkiye:</strong>&nbsp;5-7 business days</li><li><strong>Turks and Caicos Islands:</strong>&nbsp;6-12 business days</li><li><strong>Uganda:</strong>&nbsp;7-12 business days</li><li><strong>Ukraine:</strong>&nbsp;10-12 business days</li><li><strong>United Arab Emirates:</strong>&nbsp;4-7 business days</li><li><strong>Uruguay:</strong>&nbsp;7-12 business days</li><li><strong>Vanuatu:</strong>&nbsp;15-20 business days</li><li><strong>Vietnam:</strong>&nbsp;7-11 business days</li><li><strong>Zambia:</strong>&nbsp;6-10 business days</li><li><strong>Zimbabwe:</strong>&nbsp;6-9 business days</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ieBGBF": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "What are your shipping costs and delivery times?",
+            "icon": "none",
+            "row_content": "<p>Estimated tracked shipping prices and delivery times are below. Remote areas may cost more and take longer, and customs, holidays or carrier issues can cause delays. <strong>Enter your address at checkout to see your shipping fee. No payment is needed until you confirm your order.</strong><br/></p><ul><li><strong>USA</strong> (48 contiguous states): US$4.99 (2-5 business days) · US$34.99 (2 business days) · US$39.99 (1 business day) · FREE (spend US$75+)</li></ul><ol><li><strong>Alaska</strong>: US$33.99 (2 business days) · $43.99 (1 business day)</li><li><strong>American Samoa</strong>: US$33.99 (2-5 business days) · $38.99 (1-3 business days)</li><li><strong>Guam</strong>: US$33.99 (2-5 business days) · $38.99 (1-3 business days)</li><li><strong>Hawaii</strong>: US$33.99 (2 business days) · $43.99 (1 business day)</li><li><strong>Northern Mariana Islands</strong>: US$33.99 (2-5 business days) · $38.99 (1-3 business days)</li><li><strong>Puerto Rico</strong>: US$23.99 (2-5 business days) · US$28.99 (2-4 business days)</li><li><strong>U.S. Minor Outlying Islands</strong>: US$33.99 (2-5 business days) · $38.99 (1-3 business days)</li><li><strong>U.S. Virgin Islands</strong>: US$33.99 (2-5 business days) · $38.99 (1-3 business days)</li></ol><ul><li><strong>Canada</strong>: CA$28.99 (2-5 business days) · CA$59.99 (1 business day)</li><li><strong>UK</strong>: £5.99 (2-3 business days) · £6.99 (1-2 business days) · FREE (spend £40+)</li><li><strong>Australia</strong>: AU$11.99+ (3-5 business days) · AU$14.99+ (1-3 business days)</li><li><strong>New Zealand</strong>: NZ$19.99 (4-7 business days)</li><li><strong>Åland Islands</strong>: €9,99 (5-6 business days)</li><li><strong>Albania</strong>: ALL899,99 (5-8 business days)</li><li><strong>Andorra</strong>: €9,99 (4-6 business days)</li><li><strong>Argentina</strong>: US$14.99+ (8-12 business days)</li><li><strong>Austria</strong>: €8,75 (3-4 business days)</li><li><strong>Bahrain</strong>: US$14.99+ (6-8 business days)</li><li><strong>Bangladesh</strong>: ৳1,849.99+ (10-12 business days)</li><li><strong>Barbados</strong>: BB$29.99+ (5-7 business days)</li><li><strong>Belarus</strong>: US$14.99 (7-9 business days)</li><li><strong>Belgium</strong>: €8,99 (2-3 business days)</li><li><strong>Belize</strong>: BZ$29.99+ (6-10 business days)</li><li><strong>Bosnia</strong> <strong>and</strong> <strong>Herzegovina</strong>: KM 19.99 (5-7 business days)</li><li><strong>Botswana</strong>: P209.99+ (7-12 business days)</li><li><strong>Brazil</strong>: US$13.99+ (8-11 business days)</li><li><strong>Brunei</strong>: BND$18.99+ (5-10 business days)</li><li><strong>Bulgaria</strong>: €8,49 (6-8 business days)</li><li><strong>Cambodia</strong>: ៛59988+ (5-8 business days)</li><li><strong>Chile</strong>: US$14.99 (5-10 business days)</li><li><strong>China</strong>: CNY79.88+ (4-9 business days)</li><li><strong>Cook</strong> <strong>Islands</strong>: NZ$24.99+ (6-10 business days)</li><li><strong>Croatia</strong>: €9,99 (4-6 business days)</li><li><strong>Cyprus</strong>: €9,99 (6-8 business days)</li><li><strong>Czechia</strong>: Kč199.99 (3-4 business days)</li><li><strong>Denmark</strong>: kr69,99 (3-4 business days)</li><li><strong>Dominica</strong>: EC$39.99+ (5-12 business days)</li><li><strong>Egypt</strong>: E£749.99+ (5-10 business days)</li><li><strong>Estonia</strong>: €9,99 (6-7 business days)</li><li><strong>Faroe</strong> <strong>Islands</strong>: kr74,99 (4-9 business days)</li><li><strong>Fiji</strong>: FJ$32.99+ (7-13 business days)</li><li><strong>Finland</strong>: €9,99 (5-6 business days)</li><li><strong>France</strong>: €7,99 (2-4 business days)</li><li><strong>French</strong> <strong>Polynesia</strong>: CFPF1499+ (6-12 business days)</li><li><strong>Germany</strong>: €6,99 (2-3 business days)</li><li><strong>Ghana</strong>: US$15.99+ (6-10 business days)</li><li><strong>Gibraltar</strong>: £7.99+ (5-7 business days)</li><li><strong>Greece</strong>: €9,99 (7-9 business days)</li><li><strong>Greenland</strong>: kr74,99 (5-9 business days)</li><li><strong>Grenada</strong>: EC$39.99+ (5-7 business days)</li><li><strong>Guernsey</strong>: £7.99+ (4-5 business days)</li><li><strong>Guyana</strong>: GY$2,999+ (5-11 business days)</li><li><strong>Hong</strong> <strong>Kong</strong>: HK$98.88+ (4-7 business days)</li><li><strong>Hungary</strong>: Ft2899 (4-5 business days)</li><li><strong>Iceland</strong>: kr1,399 (5-6 business days)</li><li><strong>India</strong>: ₹1,199+ (7-11 business days)</li><li><strong>Indonesia</strong>: Rp225999+ (4-7 business days)</li><li><strong>Ireland</strong>: €9.99 (3-5 business days)</li><li><strong>Isle</strong> <strong>of</strong> <strong>Man</strong>: £7.99+ (4-5 business days)</li><li><strong>Israel</strong>: ₪39.99 (8-9 business days)</li><li><strong>Italy</strong>: €8,49 (4-6 business days)</li><li><strong>Jamaica</strong>: J$2,299+ (6-10 business days)</li><li><strong>Japan</strong>: ¥1988+ (4-7 business days)</li><li><strong>Jersey</strong>: £7.99+ (5-6 business days)</li><li><strong>Jordan</strong>: US$14.99+ (5-8 business days)</li><li><strong>Kenya</strong>: KES1,899+ (7-11 business days)</li><li><strong>Kosovo</strong>: €9,99 (5-10 business days)</li><li><strong>Kuwait</strong>: US$14.99+ (5-10 business days)</li><li><strong>Laos</strong>: ₭338000+ (6-10 business days)</li><li><strong>Latvia</strong>: €9,99 (6-7 business days)</li><li><strong>Liechtenstein</strong>: CHF8.99 (3-4 business days)</li><li><strong>Lithuania</strong>: €8,99 (6-7 business days)</li><li><strong>Luxembourg</strong>: €4,99 (3-5 business days)</li><li><strong>Macau</strong>: MOP118.88 (5-8 business days)</li><li><strong>Malaysia</strong>: RM49.88 (5-8 business days)</li><li><strong>Maldives</strong>: MVR229.99 (9-12 business days)</li><li><strong>Malta</strong>: €9.99 (5-8 business days)</li><li><strong>Mauritius</strong>: MUR699.99+ (8-12 business days)</li><li><strong>Mexico</strong>: US$19.99 (7-11 business days)</li><li><strong>Moldova</strong>: MDL199.99 (7-10 business days)</li><li><strong>Monaco</strong>: €9,99 (3-4 business days)</li><li><strong>Montenegro</strong>: €9,99 (5-8 business days)</li><li><strong>Namibia</strong>: US$14.99+ (6-10 business days)</li><li><strong>Nepal</strong>: Rs.2299+ (6-10 business days)</li><li><strong>Netherlands</strong>: €5,99 (1-2 business days)</li><li><strong>New</strong> <strong>Caledonia</strong>: Fr1499+ (6-12 business days)</li><li><strong>Nigeria</strong>: ₦19,999+ (7-11 business days)</li><li><strong>North</strong> <strong>Macedonia</strong>: MKD599.99+ (5-8 business days)</li><li><strong>Norway</strong>: kr99.99 (5-7 business days)</li><li><strong>Oman</strong>: US$14.99+ (6-8 business days)</li><li><strong>Pakistan</strong>: PKR3999+ (6-10 business days)</li><li><strong>Papua</strong> <strong>New</strong> <strong>Guinea</strong>: PGK64.99+ (6-13 business days)</li><li><strong>Philippines</strong>: ₱899.99+ (8-12 business days)</li><li><strong>Poland</strong>: zł34.99 (3-5 business days)</li><li><strong>Portugal</strong>: €7,99 (5-7 business days)</li><li><strong>Qatar</strong>: QAR54.99+ (7-11 business days)</li><li><strong>Romania</strong>: Lei44.99 (5-8 business days)</li><li><strong>Saint</strong> <strong>Kitts</strong> <strong>and</strong> <strong>Nevis</strong>: EC$11.99+ (6-8 business days)</li><li><strong>Samoa</strong>: T39.99+ (8-12 business days)</li><li><strong>San</strong> <strong>Marino</strong>: €9,99 (4-6 business days)</li><li><strong>Saudi</strong> <strong>Arabia</strong>: SAR49.99 (7-10 business days)</li><li><strong>Serbia</strong>: RSD1149.99 (6-8 business days)</li><li><strong>Seychelles</strong>: US$14.99+ (9-13 business days)</li><li><strong>Singapore</strong>: SG$13.88+ (4-7 business days)</li><li><strong>Slovakia</strong>: €7,49 (3-6 business days)</li><li><strong>Slovenia</strong>: €8,99 (5-6 business days)</li><li><strong>South</strong> <strong>Africa</strong>: R349.99 (6-10 business days)</li><li><strong>South</strong> <strong>Korea</strong>: ₩17888 (5-8 business days)</li><li><strong>Spain</strong>: €8,49 (4-6 business days)</li><li><strong>Sri</strong> <strong>Lanka</strong>: LKR5000 (8-12 business days)</li><li><strong>Sweden</strong>: kr74.99 (4-5 business days)</li><li><strong>Switzerland</strong>: CHF6.99 (3-5 business days)</li><li><strong>Taiwan</strong>: TW$388+ (5-9 business days)</li><li><strong>Tanzania</strong>: TZS39,699+ (7-13 business days)</li><li><strong>Thailand</strong>: ฿399+ (6-12 business days)</li><li><strong>Tonga</strong>: T$34.99 (8-12 business days)</li><li><strong>Trinidad</strong> <strong>and</strong> <strong>Tobago</strong>: TT$99.99+ (5-7 business days)</li><li><strong>Türkiye</strong>: US$11.99 (5-7 business days)</li><li><strong>Turks</strong> <strong>and</strong> <strong>Caicos</strong> <strong>Islands</strong>: US$14.99 (6-12 business days)</li><li><strong>Uganda</strong>: UGX54,999+ (7-12 business days)</li><li><strong>Ukraine</strong>: ₴439.99+ (10-12 business days)</li><li><strong>United</strong> <strong>Arab</strong> <strong>Emirates</strong>: AED59.99 (4-7 business days)</li><li><strong>Uruguay</strong>: UYU599.99+ (7-12 business days)</li><li><strong>Vanuatu</strong>: Vt1699+ (15-20 business days)</li><li><strong>Vietnam</strong>: ₫388888+ (7-11 business days)</li><li><strong>Zambia</strong>: US$14.99+ (6-10 business days)</li><li><strong>Zimbabwe</strong>: US$14.99 (6-9 business days)</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ka8UfQ": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "How long does printing take?",
+            "icon": "none",
+            "row_content": "<p>Your book is made for you, printed on demand. Add the estimated production time below to the shipping time above for an estimated delivery date:<br/></p><ul><li><strong>USA</strong>: 3-4 business days</li><li><strong>Canada</strong>: 3-4 business days</li><li><strong>UK</strong>: 2-3 business days</li><li><strong>Australia</strong>: 3-4 business days</li><li><strong>New Zealand</strong>: 3-4 business days</li><li><strong>EU</strong>: 4-5 business days</li><li><strong>Rest of the World</strong>:&nbsp;2-5 business days</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Ep4Rxw": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "What is Picco Puppy?",
+            "icon": "none",
+            "row_content": "<p>Picco Puppy is an indie children's picture book publisher founded by award-winning author Michael Wong. Since 2020, our books have delighted over 450,000 customers worldwide and earned over 3,000 five-star ratings on Amazon.</p><p>Based in Sydney, Australia (ABN 22 143 805 207), Picco Puppy partners with printers in the US, UK, the Netherlands, and Australia. Your book prints close to home, which means faster and more affordable shipping and support for local businesses along the way.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_DFELen": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "I have a question. How do I contact Picco Puppy?",
+            "icon": "none",
+            "row_content": "<p>Visit the <a href=\"/pages/support\" title=\"Shipping/Support\">Support</a> page for more answers to your questions. If you need support, reach our via the Help chat box in the bottom-right corner, the contact us form at the bottom of the support page, or email at <a href=\"mailto:help@piccopuppy.com\">help@piccopuppy.com</a>.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_A7K6md",
+        "collapsible_row_XabYnm",
+        "collapsible_row_ieBGBF",
+        "collapsible_row_ka8UfQ",
+        "collapsible_row_Ep4Rxw",
+        "collapsible_row_DFELen"
+      ],
+      "custom_css": [
+        ".collapsible-content-wrapper-narrow {max-width: 800px;}",
+        ".collapsible-content__heading {font-size: 28px !important; font-weight: 500;}",
+        ".accordion__title {font-weight: 600; color: #4d4d4d;}",
+        ".rte ol {list-style: circle; margin-left: 50px; margin-block: 0px; margin-top: -15px; margin-bottom: -15px;}",
+        "@media only screen and (max-width: 750px) {.collapsible-content__heading {font-size: 20px !important; font-weight: 500; margin-bottom: -5px; }}"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Final Christmas order dates",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "custom_liquid_CGWKjX": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<div style=\"text-align:center;\"><b>USA/Canada/EU: Order by Dec 7 (UK: Dec 14 / Australia: Dec 10-16) for Christmas delivery*</b></div>\n<div style=\"text-align:center; font-size:12px;\">*Delivery by Christmas can't be guaranteed. Order early for the best chance.</div>",
@@ -159,11 +254,12 @@
         "padding_bottom": 36
       }
     },
-    "collapsible_content_EWqD9z": {
+    "collapsible_content_Bfj6Fi": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_A7K6md": {
+        "collapsible_row_PiiExf": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "What's the last day to order for Christmas delivery?",
             "icon": "none",
@@ -171,7 +267,7 @@
             "page": ""
           }
         },
-        "collapsible_row_XabYnm": {
+        "collapsible_row_nWynkz": {
           "type": "collapsible_row",
           "settings": {
             "heading": "How long is delivery?",
@@ -180,7 +276,7 @@
             "page": ""
           }
         },
-        "collapsible_row_ieBGBF": {
+        "collapsible_row_GGHhP9": {
           "type": "collapsible_row",
           "disabled": true,
           "settings": {
@@ -190,7 +286,7 @@
             "page": ""
           }
         },
-        "collapsible_row_ka8UfQ": {
+        "collapsible_row_kQXjY6": {
           "type": "collapsible_row",
           "disabled": true,
           "settings": {
@@ -200,7 +296,7 @@
             "page": ""
           }
         },
-        "collapsible_row_Ep4Rxw": {
+        "collapsible_row_HAeTet": {
           "type": "collapsible_row",
           "settings": {
             "heading": "What is Picco Puppy?",
@@ -209,7 +305,7 @@
             "page": ""
           }
         },
-        "collapsible_row_DFELen": {
+        "collapsible_row_GWmgrX": {
           "type": "collapsible_row",
           "disabled": true,
           "settings": {
@@ -221,12 +317,12 @@
         }
       },
       "block_order": [
-        "collapsible_row_A7K6md",
-        "collapsible_row_XabYnm",
-        "collapsible_row_ieBGBF",
-        "collapsible_row_ka8UfQ",
-        "collapsible_row_Ep4Rxw",
-        "collapsible_row_DFELen"
+        "collapsible_row_PiiExf",
+        "collapsible_row_nWynkz",
+        "collapsible_row_GGHhP9",
+        "collapsible_row_kQXjY6",
+        "collapsible_row_HAeTet",
+        "collapsible_row_GWmgrX"
       ],
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 800px;}",
@@ -345,12 +441,13 @@
     "custom_liquid_6z97Wz",
     "cart-items",
     "cart-footer",
+    "collapsible_content_EWqD9z",
     "custom_liquid_CGWKjX",
     "custom_liquid_7KaKGt",
     "1793609782a0ed4e20",
     "custom_liquid_RpHwFi",
     "multicolumn_73Bgbw",
-    "collapsible_content_EWqD9z",
+    "collapsible_content_Bfj6Fi",
     "custom_liquid_NGWttF",
     "17927333930df78857",
     "1793311723f693430e",
