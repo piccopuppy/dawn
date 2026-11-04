@@ -11,6 +11,7 @@
   "sections": {
     "custom_liquid_6z97Wz": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         ".cart-header__logo img {display: block; width: 100%; height: auto;}"
       ],
@@ -25,7 +26,6 @@
     "cart-items": {
       "type": "main-cart-items",
       "custom_css": [
-        ".title-wrapper-with-link {display: none;}",
         "h1 {font-size: 24px !important;}",
         "@media only screen and (max-width: 750px) {.section-template--25289772728513__cart-items-padding {padding-top: 0; } h1 {font-size: 18px !important; } .title-wrapper-with-link {margin-bottom: 20px; }}"
       ],

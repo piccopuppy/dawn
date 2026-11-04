@@ -119,17 +119,11 @@
                 </button>
               </div>
 
-              {%- if additional_checkout_buttons -%}
+              {%- if additional_checkout_buttons and settings.show_cart_dynamic_checkout -%}
                 <div class="cart__dynamic-checkout-buttons additional-checkout-buttons">
                   {{ content_for_additional_checkout_buttons }}
                 </div>
               {%- endif -%}
-
-              <div class="center">
-                <a href="{{ routes.root_url }}" class="underlined-link">
-                  {{- 'general.continue_shopping' | t -}}
-                </a>
-              </div>
           {%- endcase -%}
         {% endfor %}
 
