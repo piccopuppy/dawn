@@ -52,7 +52,8 @@
         "buttons"
       ],
       "custom_css": [
-        ".dynamic-checkout__content {margin-bottom: 30px;}"
+        ".dynamic-checkout__content {margin-bottom: 30px;}",
+        "a[href=\"/policies/shipping-policy\"] {pointer-events: none; cursor: default; text-decoration: none; color: inherit;}"
       ],
       "settings": {
         "color_scheme": "",
