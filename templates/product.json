@@ -67,7 +67,7 @@
         "custom_liquid_KVy3DJ": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<p>🎄 Order by Dec 7 (UK: Dec 14) for Christmas delivery*</p>"
+            "custom_liquid": "<p>🎄 <b>Order today for guaranteed Christmas delivery</b></p>"
           }
         },
         "custom_liquid_dn7Ezi": {
