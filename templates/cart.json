@@ -288,6 +288,15 @@
             "page": ""
           }
         },
+        "collapsible_row_q6rLgz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have any discount coupons?",
+            "icon": "none",
+            "row_content": "<p>We currently have a 50% OFF sale until Sunday, November 8. Prices already discounted. No coupon required.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_GGHhP9": {
           "type": "collapsible_row",
           "disabled": true,
@@ -333,6 +342,7 @@
         "collapsible_row_PiiExf",
         "collapsible_row_nWynkz",
         "collapsible_row_NDCPzt",
+        "collapsible_row_q6rLgz",
         "collapsible_row_GGHhP9",
         "collapsible_row_kQXjY6",
         "collapsible_row_HAeTet",
