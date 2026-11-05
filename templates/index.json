@@ -314,7 +314,7 @@
         "custom_liquid_6K4Kyp": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<p>🎄 Order by Dec 7 (UK: Dec 14) for Christmas delivery*</p>"
+            "custom_liquid": "<p>🎄 <b>Order today for guaranteed Christmas delivery</b></p>"
           }
         },
         "custom_liquid_BDi6T9": {
@@ -652,7 +652,6 @@
         },
         "collapsible_row_BfR8m6": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
             "heading": "Do you have any discount coupons?",
             "icon": "none",
