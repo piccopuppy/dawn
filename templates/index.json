@@ -654,9 +654,9 @@
           "type": "collapsible_row",
           "disabled": true,
           "settings": {
-            "heading": "Do your books feel as good as they look?",
+            "heading": "Do you have any discount coupons?",
             "icon": "none",
-            "row_content": "<p>Absolutely! Every book is professionally printed on thick, high-quality paper with vibrant colors and a finish that feels as special as it looks. Don’t take our word for it: <a href=\"/pages/testimonials\">read what families say</a>.</p>",
+            "row_content": "<p>We currently have a 50% OFF sale until Sunday, November 8. Prices already discounted. No coupon required.</p>",
             "page": ""
           }
         },
