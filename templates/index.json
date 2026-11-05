@@ -643,11 +643,10 @@
         },
         "collapsible_row_LeYwVk": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
             "heading": "What is your money back guarantee?",
             "icon": "none",
-            "row_content": "<p>We promise you'll be happy with our 100% risk-free \"<strong>Love it or we'll make it right</strong>\"<strong>12-month happiness guarantee</strong>. If you're not happy with your order for any reason, contact us and we'll do everything we can to make it right. If you're still not satisfied, let us know within 12 months for a full refund, including return shipping.</p>",
+            "row_content": "<p>Buy with confidence with our 100% risk-free \"<strong>Love it or we'll make it right</strong>\"<strong>12-month happiness guarantee</strong>. If you're not happy, contact us and we'll make it right. If you're still not satisfied, let us know within 12 months for a full refund, including return shipping.</p>",
             "page": ""
           }
         },
@@ -713,6 +712,7 @@
         },
         "collapsible_row_PPHiUk": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "What is Picco Puppy?",
             "icon": "none",
