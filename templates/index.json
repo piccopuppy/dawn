@@ -578,6 +578,7 @@
     },
     "custom_liquid_rDkBci": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         "div {margin-top: 30px;}"
       ],
