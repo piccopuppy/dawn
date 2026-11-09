@@ -41,6 +41,7 @@
         "announcement_HNFNC6",
         "announcement_E9CRXN"
       ],
+      "disabled": true,
       "settings": {
         "auto_rotate": true,
         "change_slides_speed": 3,
