@@ -15,7 +15,7 @@
         "d7b06c99-1755-4055-8fd7-2df486d5e367": {
           "type": "heading",
           "settings": {
-            "heading": "25% OFF SALE",
+            "heading": "<strong>25% OFF SALE</strong>",
             "heading_size": "h2"
           }
         },
@@ -33,9 +33,8 @@
         },
         "text_xXXDTa": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "(Until Sunday, November 8)",
+            "text": "(Ends Tuesday, November 17)",
             "text_style": "subtitle"
           }
         }
