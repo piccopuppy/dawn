@@ -656,7 +656,7 @@
           "settings": {
             "heading": "Do you have any discount coupons?",
             "icon": "none",
-            "row_content": "<p>We currently have a 25% OFF sale until Tuesday, November 17. No coupon required. Discount added in the cart.</p>",
+            "row_content": "<p>We currently have a 25% OFF sale until Tuesday, November 17. No coupon required. Discount added to the cart.</p>",
             "page": ""
           }
         },
