@@ -291,7 +291,7 @@
         "custom_liquid_MRqFVf": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "US$24.99 (US$24.99) · CA$34.99 · £14.99 · €17.99 · AU$29.99 · NZ$36.99"
+            "custom_liquid": "25% OFF: US$18.74 (<s>US$24.99</s>) · CA$26.24 (<s>CA$34.99</s>) · £11.24 (<s>£14.99</s>) · €13.49 (<s>€17.99</s>) · AU$22.49 (<s>AU$29.99</s>) · NZ$27.74 (<s>NZ$36.99</s>)"
           }
         },
         "price_hQzfbR": {
