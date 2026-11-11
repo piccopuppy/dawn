@@ -16,6 +16,12 @@
           "type": "title",
           "settings": {}
         },
+        "custom_liquid_bbWf6D": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"margin:-10px 0 10px; letter-spacing:3px;\"><b>(Personalized with any name)</b></div>"
+          }
+        },
         "text_QNe6hP": {
           "type": "text",
           "settings": {
@@ -41,7 +47,7 @@
         "custom_liquid_JQWxR9": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "25% OFF: US$18.74 (<s>US$24.99</s>) · CA$26.24 (<s>CA$34.99</s>) · £11.24 (<s>£14.99</s>) · €13.49 (<s>€17.99</s>) · AU$22.49 (<s>AU$29.99</s>) · NZ$27.74 (<s>NZ$36.99</s>)"
+            "custom_liquid": "25% OFF: US$18.74 (<s>US$24.99</s>) · CA$26.24 (<s>CA$34.99</s>) · £11.24 (<s>£14.99</s>) · €13.49 (<s>€17.99</s>) · AU$22.49 (<s>AU$29.99</s>)"
           }
         },
         "picco_puppy_pdf_personalizer_pico_puppy_panel_REdzFN": {
@@ -84,6 +90,7 @@
       },
       "block_order": [
         "title",
+        "custom_liquid_bbWf6D",
         "text_QNe6hP",
         "custom_liquid_FEmPyq",
         "judge_me_reviews_preview_badge_zUpptU",
