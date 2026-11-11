@@ -258,7 +258,13 @@
             "heading_size": "h1"
           }
         },
-        "text_gHR7cU": {
+        "custom_liquid_LRYRdE": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"margin:-20px 0 20px; letter-spacing:3px;\"><b>(Personalized with any name)</b></div>"
+          }
+        },
+        "text_eye3NM": {
           "type": "text",
           "settings": {
             "text": "The wishes you hold for a special child, in a story to treasure",
@@ -358,7 +364,8 @@
       "block_order": [
         "text_VNmerr",
         "title_zKVTXf",
-        "text_gHR7cU",
+        "custom_liquid_LRYRdE",
+        "text_eye3NM",
         "judge_me_reviews_preview_badge_homepage_Y4nmPA",
         "judge_me_reviews_preview_badge_mR3fjX",
         "custom_liquid_tfd3Q4",
