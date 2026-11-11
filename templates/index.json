@@ -261,7 +261,7 @@
         "custom_liquid_LRYRdE": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"margin:-20px 0 20px; letter-spacing:3px;\"><b>(Personalized with any name)</b></div>"
+            "custom_liquid": "<div style=\"margin:-20px 0 30px; letter-spacing:3px;\"><b>(Personalized with any name)</b></div>"
           }
         },
         "text_eye3NM": {
