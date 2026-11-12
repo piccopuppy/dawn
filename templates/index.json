@@ -261,8 +261,12 @@
         "custom_liquid_LRYRdE": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"margin:-20px 0 30px; letter-spacing:3px;\"><b>(Personalized with any name)</b></div>"
+            "custom_liquid": "<div style=\"margin:-20px 0 0; letter-spacing:3px;\"><b>(Personalized with any name)</b></div>"
           }
+        },
+        "judge_me_reviews_preview_badge_E39YP3": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "text_eye3NM": {
           "type": "text",
@@ -271,27 +275,11 @@
             "text_style": "subtitle"
           }
         },
-        "judge_me_reviews_preview_badge_homepage_Y4nmPA": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-            "product": ""
-          }
-        },
-        "judge_me_reviews_preview_badge_mR3fjX": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {}
-        },
         "custom_liquid_tfd3Q4": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<style>\n.pp-new{display:inline-block;margin-left:6px;padding:1px 8px;font-size:11px;font-weight:700;letter-spacing:1px;line-height:1.4;vertical-align:middle;border-radius:10px;white-space:nowrap;background:#FBF7EE;color:#16263D;border:1.5px solid #D4AD6A}\n</style>\n<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>The child's name on the cover and in the story</li>\n<li>Add a personal dedication<span class=\"pp-new\">NEW</span></li>\n<li>Preview the cover and all 39 pages before buying</li>\n<li>Printed and shipped in 3-5 business days (worldwide)</li>\n<li>Illustrated by an award-winning artist (No AI)</li>\n<li>12-month Happiness Guarantee</li>\n<li>300,000+ sold · 2,000+ 5-star Amazon ratings</li>\n</ul>"
           }
-        },
-        "judge_me_reviews_preview_badge_E39YP3": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
         },
         "custom_liquid_MRqFVf": {
           "type": "custom_liquid",
@@ -365,11 +353,9 @@
         "text_VNmerr",
         "title_zKVTXf",
         "custom_liquid_LRYRdE",
-        "text_eye3NM",
-        "judge_me_reviews_preview_badge_homepage_Y4nmPA",
-        "judge_me_reviews_preview_badge_mR3fjX",
-        "custom_liquid_tfd3Q4",
         "judge_me_reviews_preview_badge_E39YP3",
+        "text_eye3NM",
+        "custom_liquid_tfd3Q4",
         "custom_liquid_MRqFVf",
         "price_hQzfbR",
         "variant_picker_BVAdm3",
@@ -382,7 +368,7 @@
         "custom_liquid_8jQeMQ"
       ],
       "custom_css": [
-        "@media (min-width: 750px) {div {margin: 10px auto; } .product__title {font: 40px/64px Georgia; } .product__text {font: 20px/30px Georgia; margin-top: -10px; }}",
+        "@media (min-width: 750px) {div {margin: 10px auto; } .product__title {font: 40px/64px Georgia; } .product__text {font: 20px/30px Georgia; margin-top: 20px; }}",
         "@media (max-width: 749px) {.product__title {font: 32px/48px Georgia; margin-top: 40px; } .product-images-below-gallery__image {margin-top: 30px; } .product__text {font: 15px/23px Georgia; margin-top: -10px; }}",
         ".product__info-container > *:first-child,.product-form__input,.product__tax {display: none;}",
         ".button,.shopify-challenge__button,.customer button {margin: 24px 0;}"
