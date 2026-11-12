@@ -73,7 +73,7 @@
         "custom_liquid_KVy3DJ": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<p>🎄 <b>Order today for guaranteed Christmas delivery</b></p>"
+            "custom_liquid": "<p style=\"margin-bottom:30px;\">🎄 <b>Order today for guaranteed Christmas delivery</b></p>"
           }
         },
         "custom_liquid_dn7Ezi": {
