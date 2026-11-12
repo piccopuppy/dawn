@@ -19,7 +19,7 @@
         "custom_liquid_bbWf6D": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"margin:-10px 0 0; letter-spacing:3px;\"><b>(Personalized with any name)</b></div>"
+            "custom_liquid": "<div style=\"margin:-20px 0 0; letter-spacing:3px;\"><b>(Personalized with any name)</b></div>"
           }
         },
         "judge_me_reviews_preview_badge_zUpptU": {
