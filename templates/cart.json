@@ -162,8 +162,8 @@
       "settings": {
         "custom_liquid": "<div style=\"text-align:center;\"><b>🎄 Order today for guaranteed Christmas delivery</b></div>",
         "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 36,
+        "padding_bottom": 12
       }
     },
     "custom_liquid_7KaKGt": {
