@@ -52,7 +52,9 @@
         "buttons"
       ],
       "custom_css": [
-        ".dynamic-checkout__content {margin-bottom: 30px;}"
+        ".dynamic-checkout__content {margin-bottom: 30px;}",
+        ".cart__ctas button {background-color: #ffbf00 !important; color: #000000 !important; border: none !important; box-shadow: none !important; border-radius: 25px !important;}",
+        ".cart__ctas button::before,.cart__ctas button::after {border-radius: 25px !important; box-shadow: none !important; border: none !important;}"
       ],
       "settings": {
         "color_scheme": "",
