@@ -114,11 +114,11 @@
         "description"
       ],
       "custom_css": [
-        "@media(width>=749px){.product{margin-top:20px}.product__title{font:40px/1.6 Georgia}.product__text{font:20px/1.5 Georgia;margin-top:20px}.product-images-below-gallery{margin:50px 0}}",
-        "@media(width<=749px){.product__title{font:32px/1.5 Georgia;margin-top:40px}.product__text{font:15px/23px Georgia;margin-top:-10px}}",
-        ".product-images-below-gallery__image{display:block;width:80%;margin:30px auto}",
-        ".product__info-container>:first-child,.product-form__input,.product__tax{display:none}",
-        ".button{margin:24px 0}"
+        "@media (min-width: 749px) {.product {margin-top: 20px; } .product__title {font: 40px/1.6 Georgia; } .product__text {font: 20px/1.5 Georgia; margin-top: 20px; } .product-images-below-gallery {margin: 50px 0; }}",
+        "@media (max-width: 748px) {.product__title {font: 32px/1.5 Georgia; margin-top: 40px; } .product__text {font: 15px/23px Georgia; margin-top: -10px; }}",
+        ".product-images-below-gallery__image {display: block; width: 80%; margin: 30px auto;}",
+        ".product-form__input,.product__tax {display: none;}",
+        ".button {margin: 24px 0;}"
       ],
       "settings": {
         "enable_sticky_info": false,
@@ -405,7 +405,7 @@
         "collapsible_row_HDTjnX"
       ],
       "custom_css": [
-        ".collapsible-content-wrapper-narrow {max-width: 800px;}",
+        ".collapsible-content-wrapper-narrow {max-width: 1125px;}",
         ".collapsible-content__heading {font-size: 22px !important; font-weight: 500;}",
         ".accordion__title {font-weight: 600; color: #4d4d4d;}",
         ".rte ol {list-style: circle; margin-left: 50px; margin-block: 0px; margin-top: -15px; margin-bottom: -15px;}",
