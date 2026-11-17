@@ -379,10 +379,11 @@
         "custom_liquid_8jQeMQ"
       ],
       "custom_css": [
-        "@media (min-width: 749px) {.product {margin-top: 20px; } .product__title {font: 40px/64px Georgia; } .product__text {font: 20px/30px Georgia; margin-top: 20px; } .product-images-below-gallery {margin: 50px 0; }}",
-        "@media (max-width: 749px) {.product__title {font: 32px/48px Georgia; margin-top: 40px; } .product-images-below-gallery__image {margin-top: 30px; } .product__text {font: 15px/23px Georgia; margin-top: -10px; }}",
-        ".product__info-container > :first-child,.product-form__input,.product__tax {display: none;}",
-        ".button {margin: 24px 0;}"
+        "@media(min-width:749px){.product{margin-top:20px}.product__title{font:40px/64px Georgia}.product__text{font:20px/30px Georgia;margin-top:20px}.product-images-below-gallery{margin:50px 0}}",
+        "@media(max-width:749px){.product__title{font:32px/48px Georgia;margin-top:40px}.product__text{font:15px/23px Georgia;margin-top:-10px}}",
+        ".product-images-below-gallery__image{margin:30px 0}",
+        ".product__info-container>:first-child,.product-form__input,.product__tax{display:none}",
+        ".button{margin:24px 0}"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
