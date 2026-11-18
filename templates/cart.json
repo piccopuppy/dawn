@@ -293,7 +293,7 @@
           "settings": {
             "heading": "Do you have any discount coupons?",
             "icon": "none",
-            "row_content": "<p>We currently have a 25% OFF sale until Tuesday, November 17. No coupon required. Discount added to the cart.</p>",
+            "row_content": "<p><strong>Save 20% on 2 or more books</strong><br/>Applied automatically in your cart. No code needed.</p>",
             "page": ""
           }
         },
