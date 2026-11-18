@@ -281,7 +281,7 @@
           "settings": {
             "heading": "Do you have any discount coupons?",
             "icon": "none",
-            "row_content": "<p><strong>Save 20% on 2 or more books</strong><br/>Applied automatically in your cart. No code needed.</p>",
+            "row_content": "<p>Yes! Buy 2 or more books and you'll save 20%. The discount is applied automatically in your cart, so there's no code to enter.</p>",
             "page": ""
           }
         },
