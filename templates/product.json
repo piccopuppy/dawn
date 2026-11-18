@@ -114,11 +114,11 @@
         "description"
       ],
       "custom_css": [
-        "@media(min-width:749px){.product{margin-top:20px}.product__title h1{font:40px/1.6 Georgia}.product__text{font:20px/1.5 Georgia;margin-top:20px}.product-images-below-gallery{margin:50px 0}}",
-        "@media(max-width:748px){.product__title h1{font:32px/1.5 Georgia;margin-top:40px}.product__text{font:15px/23px Georgia;margin-top:-10px}}",
-        ".product-images-below-gallery__image{display:block;width:80%;margin:30px auto}",
-        ".product-form__input,.product__tax{display:none}",
-        ".button{margin:24px 0}"
+        "@media (min-width: 749px) {.product {margin-top: 20px; } .product__title h1 {font: 40px/1.6 Georgia; } .product__text {font: 20px/1.5 Georgia; margin-top: 20px; } .product-images-below-gallery {margin: 50px 0; }}",
+        "@media (max-width: 748px) {.product__title h1 {font: 32px/1.5 Georgia; margin-top: 40px; } .product__text {font: 15px/23px Georgia; margin-top: -10px; }}",
+        ".product-images-below-gallery__image {display: block; width: 80%; margin: 30px auto;}",
+        ".product-form__input,.product__tax {display: none;}",
+        ".button {margin: 24px 0;}"
       ],
       "settings": {
         "enable_sticky_info": false,
@@ -281,7 +281,7 @@
           "settings": {
             "heading": "Do you have any discount coupons?",
             "icon": "none",
-            "row_content": "<p>We currently have a 25% OFF sale until Tuesday, November 17. No coupon required. Discount added to the cart.</p>",
+            "row_content": "<p><strong>Save 20% on 2 or more books</strong><br/>Applied automatically in your cart. No code needed.</p><p><strong>Free delivery on 10x10\" hardcovers</strong><br/>US: use code FREEUSDELIVERY<br/>UK: use code FREEUKDELIVERY</p>",
             "page": ""
           }
         },
