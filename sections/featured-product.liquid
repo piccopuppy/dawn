@@ -118,6 +118,12 @@
                   >
                     {{- block.settings.text -}}
                   </p>
+                {%- when 'textbox' -%}
+                  {%- if block.settings.text != blank -%}
+                    <div class="product__textbox rte" {{ block.shopify_attributes }}>
+                      {{ block.settings.text }}
+                    </div>
+                  {%- endif -%}
                 {%- when 'title' -%}
                   <h2 class="product__title {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                     {%- unless placeholder -%}
@@ -555,6 +561,17 @@
           ],
           "default": "body",
           "label": "t:sections.featured-product.blocks.text.settings.text_style.label"
+        }
+      ]
+    },
+    {
+      "type": "textbox",
+      "name": "Textbox",
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "text",
+          "label": "Text"
         }
       ]
     },
