@@ -235,6 +235,11 @@ product-info {
   margin-bottom: 0;
 }
 
+.product__textbox.rte ul,
+.product__textbox.rte ol {
+  list-style-position: outside;
+}
+
 a.product__text {
   display: block;
   text-decoration: none;
