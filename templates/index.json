@@ -289,7 +289,13 @@
         "custom_liquid_tfd3Q4": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n.pp-new{display:inline-block;margin-left:6px;padding:1px 8px;font-size:11px;font-weight:700;letter-spacing:1px;line-height:1.4;vertical-align:middle;border-radius:10px;white-space:nowrap;background:#FBF7EE;color:#16263D;border:1.5px solid #D4AD6A}\n</style>\n<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Any name on the cover and throughout the story</li>\n<li>Add a personal dedication (free)</li>\n<li>Preview the story before buying</li>\n<li>Printed and shipped in 3-5 business days</li>\n<li>Illustrated by an award-winning artist (no AI)</li>\n<li>12-month Happiness Guarantee</li>\n<li>300,000+ sold · 2,000+ 5-star Amazon ratings</li>\n<li><b>FREE US tracked shipping</b> (48 states + DC): Spend US$35+</li>\n<li><b>FREE UK tracked shipping</b>: Spend £26+</li>\n</ul>"
+            "custom_liquid": "<style>\n.pp-new{display:inline-block;margin-left:6px;padding:1px 8px;font-size:11px;font-weight:700;letter-spacing:1px;line-height:1.4;vertical-align:middle;border-radius:10px;white-space:nowrap;background:#FBF7EE;color:#16263D;border:1.5px solid #D4AD6A}\n</style>\n<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li>Any name on the cover and throughout the story</li>\n<li>Add a personal dedication (free)</li>\n<li>Preview the story before buying</li>\n<li>Printed and shipped in 3-5 business days</li>\n<li>Illustrated by an award-winning artist (no AI)</li>\n<li>12-month Happiness Guarantee</li>\n<li>300,000+ sold · 2,000+ 5-star Amazon ratings</li>\n</ul>"
+          }
+        },
+        "custom_liquid_hixcht": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<style>\n.pp-new{display:inline-block;margin-left:6px;padding:1px 8px;font-size:11px;font-weight:700;letter-spacing:1px;line-height:1.4;vertical-align:middle;border-radius:10px;white-space:nowrap;background:#FBF7EE;color:#16263D;border:1.5px solid #D4AD6A}\n</style>\n<ul style=\"margin-top:20px; margin-left:-20px; margin-bottom:20px;\">\n<li><b>FREE US tracked shipping</b> (48 states + DC): Spend US$35+</li>\n<li><b>FREE UK tracked shipping</b>: Spend £26 or more</li>\n<li><b>FREE EU tracked shipping</b>: Spend €32 or more</li>\n</ul>"
           }
         },
         "textbox_features": {
@@ -374,6 +380,7 @@
         "judge_me_reviews_preview_badge_E39YP3",
         "text_eye3NM",
         "custom_liquid_tfd3Q4",
+        "custom_liquid_hixcht",
         "textbox_features",
         "custom_liquid_MRqFVf",
         "price_hQzfbR",
