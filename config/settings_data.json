@@ -126,7 +126,7 @@
     "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
-    "show_cart_dynamic_checkout": false,
+    "show_cart_dynamic_checkout": true,
     "cart_drawer_collection": "",
     "sections": {
       "main-password-header": {
