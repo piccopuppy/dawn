@@ -293,7 +293,7 @@
           "settings": {
             "heading": "Do you have any discount coupons?",
             "icon": "none",
-            "row_content": "<p>Yes! Buy 2 or more books and you'll save 20%. The discount is applied automatically in your cart, so there's no code to enter.</p>",
+            "row_content": "<p><strong>20% OFF</strong>: Buy 2 or more books · Automatically applied in the cart.</p><p><strong>FREE US tracked shipping</strong> (48 contiguous states + DC): Spend US$35 or more · Automatically applied at checkout.</p><p><strong>FREE UK tracked shipping</strong>: Spend £26 or more · Automatically applied at checkout.</p>",
             "page": ""
           }
         },
