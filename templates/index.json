@@ -668,7 +668,7 @@
           "settings": {
             "heading": "Do you have any discount coupons?",
             "icon": "none",
-            "row_content": "<p>Yes! Buy 2 or more books and you'll save 20%. The discount is applied automatically in your cart, so there's no code to enter.</p><p>FREE US delivery (48 contiguous states + DC): Spend US$35+</p><p>FREE UK delivery: Spend £26+<br/></p>",
+            "row_content": "<p>Yes! Buy 2 or more books and you'll save 20%. Automatically applied in cart.</p><p>FREE US delivery (48 contiguous states + DC): Spend US$35+&nbsp;· Automatically applied at checkout.</p><p>FREE UK delivery: Spend £26+ · Automatically applied at checkout.</p>",
             "page": ""
           }
         },
