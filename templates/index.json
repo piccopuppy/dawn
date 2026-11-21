@@ -15,7 +15,7 @@
         "d7b06c99-1755-4055-8fd7-2df486d5e367": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Empowering Picture Books by the Award-Winning Author of the Unconditional Love Series</strong>",
+            "heading": "Personalized Picture Books from an Award-Winning Author",
             "heading_size": "h2"
           }
         },
@@ -394,7 +394,7 @@
         "custom_liquid_8jQeMQ"
       ],
       "custom_css": [
-        "@media (width>=749px) {.product {margin-top: 20px; } .product__title {font: 40px/1.6 Georgia; } .product__text {font: 20px/1.5 Georgia; margin-top: 20px; } .product-images-below-gallery {margin: 50px 0; }}",
+        "@media (width>=749px) {.product {margin-top: 20px; } .product__title {font: bold 40px/1.2 Georgia,serif; } .product__text {font: 20px/1.5 Georgia; margin-top: 20px; } .product-images-below-gallery {margin: 50px 0; }}",
         "@media (width<749px) {.product__title {font: 32px/1.5 Georgia; margin-top: 40px; } .product__text {font: 15px/23px Georgia; margin-top: -10px; }}",
         ".product-images-below-gallery__image {width: 80%; margin: 30px auto;}",
         ".product__info-container > :first-child,.product-form__input,.product__tax {display: none;}",
