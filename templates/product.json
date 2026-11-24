@@ -39,9 +39,16 @@
         },
         "text_QNe6hP": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "The wishes you hold for a special child, in a story to treasure",
             "text_style": "subtitle"
+          }
+        },
+        "textbox_3CbYgh": {
+          "type": "textbox",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.book_tagline.value }}</p>"
           }
         },
         "custom_liquid_FEmPyq": {
@@ -111,6 +118,7 @@
         "custom_liquid_bbWf6D",
         "judge_me_reviews_preview_badge_zUpptU",
         "text_QNe6hP",
+        "textbox_3CbYgh",
         "custom_liquid_FEmPyq",
         "textbox_features",
         "price",
