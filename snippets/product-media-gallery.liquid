@@ -6,6 +6,8 @@
   - product: {Object} Product liquid object
   - variant_images: {Array} Product images associated with a variant
   - limit: {Number} (optional) When passed, limits the number of media items to render
+  - media_link: {String} (optional) When passed, links each media item to this URL
+  - hide_thumbnails: {Boolean} (optional) When true, the thumbnail slider is not rendered
 
   Usage:
   {% render 'product-media-gallery' %}
@@ -81,6 +83,7 @@
             media_width: media_width,
             media_fit: section.settings.media_fit,
             constrain_to_viewport: section.settings.constrain_to_viewport,
+            media_link: media_link,
             lazy_load: false
           %}
         </li>
@@ -119,6 +122,7 @@
               media_width: media_width,
               media_fit: section.settings.media_fit,
               constrain_to_viewport: section.settings.constrain_to_viewport,
+              media_link: media_link,
               lazy_load: lazy_load
             %}
           </li>
@@ -176,6 +180,7 @@
       assign is_not_limited_to_single_item = true
     endif
   -%}
+  {%- unless hide_thumbnails -%}
   {%- if is_not_limited_to_single_item
     and media_count > 1
     and section.settings.gallery_layout contains 'thumbnail'
@@ -329,4 +334,5 @@
       </button>
     </slider-component>
   {%- endif -%}
+  {%- endunless -%}
 </media-gallery>

@@ -81,12 +81,25 @@
       <div class="featured-product product product--{{ section.settings.media_size }} product--{{ section.settings.gallery_layout }} product--mobile-{{ section.settings.mobile_thumbnails }} grid grid--1-col gradient color-{{ section.settings.color_scheme }} product--{{ section.settings.media_position }}{% if section.settings.secondary_background == false %} isolate{% endif %} {% if product.media.size > 0 or section.settings.product == blank %}grid--2-col-tablet{% else %}product--no-media{% endif %}">
         <div class="grid__item product__media-wrapper">
           {%- unless placeholder -%}
-            {% render 'product-media-gallery', product: product, variant_images: variant_images %}
-            {% render 'product-images-below-gallery',
+            {%- liquid
+              assign media_link = blank
+              if section.settings.link_media_to_product
+                assign media_link = product.url
+              endif
+            -%}
+            {% render 'product-media-gallery',
               product: product,
-              media_size: section.settings.media_size,
-              classes: 'small-hide'
+              variant_images: variant_images,
+              media_link: media_link,
+              hide_thumbnails: section.settings.hide_gallery_thumbnails
             %}
+            {%- if section.settings.show_images_below_gallery != false -%}
+              {% render 'product-images-below-gallery',
+                product: product,
+                media_size: section.settings.media_size,
+                classes: 'small-hide'
+              %}
+            {%- endif -%}
           {%- else -%}
             <div class="product__media-item">
               <div
@@ -479,7 +492,7 @@
               {%- endcase -%}
             {%- endfor -%}
           </section>
-          {%- unless placeholder -%}
+          {%- unless placeholder or section.settings.show_images_below_gallery == false -%}
             {% render 'product-images-below-gallery',
               product: product,
               media_size: section.settings.media_size,
@@ -1558,6 +1571,25 @@
       ],
       "default": "lightbox",
       "label": "t:sections.main-product.settings.image_zoom.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "hide_gallery_thumbnails",
+      "default": false,
+      "label": "Hide gallery thumbnails"
+    },
+    {
+      "type": "checkbox",
+      "id": "link_media_to_product",
+      "default": false,
+      "label": "Link media to product page"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_images_below_gallery",
+      "default": true,
+      "label": "Show images below gallery",
+      "info": "Images from the product's \"Images below gallery\" metafield."
     },
     {
       "type": "checkbox",
